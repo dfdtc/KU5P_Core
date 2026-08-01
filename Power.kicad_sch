@@ -2564,6 +2564,16 @@
 	)
 	(wire
 		(pts
+			(xy 123.19 158.75) (xy 237.49 158.75)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "d3cf0222-4452-4f59-bb6c-10b3f7c61b0e")
+	)
+	(wire
+		(pts
 			(xy 105.41 125.73) (xy 105.41 128.27)
 		)
 		(stroke
@@ -2771,6 +2781,16 @@
 			(justify left bottom)
 		)
 		(uuid "1b3b7e44-1e1b-43a2-b56e-b5d8ca8bd38f")
+	)
+	(label "VCCO_87"
+		(at 149.86 158.75 180)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right bottom)
+		)
+		(uuid "21bb9074-3cee-4109-88cc-2efa2bf90493")
 	)
 	(label "0V85"
 		(at 149.86 110.49 180)
@@ -3461,6 +3481,84 @@
 			(project "KU5P_Core"
 				(path "/68d0ebd3-4770-4e42-a15d-94722405f64d/ca568b1d-a558-4336-b7e2-be12f8fb35d1"
 					(reference "#PWR73")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "dfdtc_power:+1V8")
+		(at 237.49 158.75 0)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "4958da21-f31f-44b1-9855-ff77da5580bd")
+		(property "Reference" "#PWR0194"
+			(at 237.49 162.56 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "VCCO_HD87"
+			(at 237.49 153.67 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 237.49 158.75 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 237.49 158.75 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"+1V8\""
+			(at 237.49 158.75 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "1"
+			(uuid "511742c3-5670-4833-bc8f-49ec2d37cfe9")
+		)
+		(instances
+			(project "KU5P_Core"
+				(path "/68d0ebd3-4770-4e42-a15d-94722405f64d/ca568b1d-a558-4336-b7e2-be12f8fb35d1"
+					(reference "#PWR0194")
 					(unit 1)
 				)
 			)
@@ -5476,6 +5574,16 @@
 				(justify right)
 			)
 		)
+		(pin "VCCO_HD87" output
+			(at 123.19 158.75 0)
+			(uuid "85e15f52-fe52-426f-88ac-6989f443bbed")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
 		(instances
 			(project "KU5P_Core"
 				(path "/68d0ebd3-4770-4e42-a15d-94722405f64d/ca568b1d-a558-4336-b7e2-be12f8fb35d1"
@@ -5613,7 +5721,7 @@
 	)
 	(sheet
 		(at 55.88 134.62)
-		(size 17.78 7.62)
+		(size 17.78 15.24)
 		(exclude_from_sim yes)
 		(in_bom no)
 		(on_board no)
@@ -5639,7 +5747,7 @@
 			)
 		)
 		(property "Sheetfile" "5V_Rail.kicad_sch"
-			(at 55.88 142.8246 0)
+			(at 55.88 150.4446 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -5680,9 +5788,19 @@
 				(justify left)
 			)
 		)
-		(pin "12Vin" input
+		(pin "3V3O" output
+			(at 73.66 142.24 0)
+			(uuid "3f0220e8-5a95-421e-9aab-33b93f26312d")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(pin "Vin" input
 			(at 55.88 137.16 180)
-			(uuid "9bfbface-9044-4844-b888-4a3a5024905a")
+			(uuid "0221348f-9f2f-4638-a8e6-460af92fc47f")
 			(effects
 				(font
 					(size 1.27 1.27)
