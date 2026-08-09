@@ -2914,6 +2914,16 @@
 	)
 	(wire
 		(pts
+			(xy 30.48 116.84) (xy 36.83 116.84)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "06fa4302-2be7-42f7-ab53-f5fbf5df0207")
+	)
+	(wire
+		(pts
 			(xy 134.62 43.18) (xy 123.19 43.18)
 		)
 		(stroke
@@ -2934,6 +2944,16 @@
 	)
 	(wire
 		(pts
+			(xy 140.97 71.12) (xy 140.97 72.39)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "0bf23773-d28f-481b-af8d-6bedf558bfd3")
+	)
+	(wire
+		(pts
 			(xy 236.22 69.85) (xy 236.22 67.31)
 		)
 		(stroke
@@ -2951,6 +2971,16 @@
 			(type default)
 		)
 		(uuid "10329062-e780-449e-9099-fa4ce4e5cf71")
+	)
+	(wire
+		(pts
+			(xy 30.48 106.68) (xy 41.91 106.68)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "166d9b2a-75f0-4d5f-a38c-4515f34e04ea")
 	)
 	(wire
 		(pts
@@ -3031,6 +3061,16 @@
 			(type default)
 		)
 		(uuid "1de6aad2-55ce-4115-ad3d-10fef0a284d3")
+	)
+	(wire
+		(pts
+			(xy 31.75 71.12) (xy 31.75 72.39)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "1e238ab7-0b2d-462a-844c-92acbadb0bdf")
 	)
 	(wire
 		(pts
@@ -3201,6 +3241,16 @@
 			(type default)
 		)
 		(uuid "2e2cf99d-a15a-45a4-9cf5-e41a60ce5098")
+	)
+	(wire
+		(pts
+			(xy 140.97 63.5) (xy 140.97 62.23)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "2f6b2bc8-759e-43bc-ab5e-8ffce30087da")
 	)
 	(wire
 		(pts
@@ -3394,6 +3444,16 @@
 	)
 	(wire
 		(pts
+			(xy 31.75 62.23) (xy 38.1 62.23)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "4898b557-13b6-4169-8ad6-2254b02db825")
+	)
+	(wire
+		(pts
 			(xy 267.97 45.72) (xy 256.54 45.72)
 		)
 		(stroke
@@ -3534,6 +3594,16 @@
 	)
 	(wire
 		(pts
+			(xy 142.24 116.84) (xy 135.89 116.84)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "60a5dbcd-0de0-4938-aa3b-6743f76bfff2")
+	)
+	(wire
+		(pts
 			(xy 82.55 58.42) (xy 80.01 58.42)
 		)
 		(stroke
@@ -3541,6 +3611,16 @@
 			(type default)
 		)
 		(uuid "6124d411-5a26-4c20-9190-ec8103d25526")
+	)
+	(wire
+		(pts
+			(xy 31.75 63.5) (xy 31.75 62.23)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "62fe53f7-2562-4fd8-8af4-b6427ca9c2ae")
 	)
 	(wire
 		(pts
@@ -3591,6 +3671,16 @@
 			(type default)
 		)
 		(uuid "6738e9c6-ffbb-4814-83cf-142d142b9618")
+	)
+	(wire
+		(pts
+			(xy 142.24 106.68) (xy 135.89 106.68)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "6ad63bef-8472-4a02-8f8b-0c060400db13")
 	)
 	(wire
 		(pts
@@ -3754,6 +3844,16 @@
 	)
 	(wire
 		(pts
+			(xy 142.24 85.09) (xy 135.89 85.09)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "7ba0f5ce-09c9-4031-af0b-0c152e809593")
+	)
+	(wire
+		(pts
 			(xy 38.1 62.23) (xy 43.18 62.23)
 		)
 		(stroke
@@ -3781,6 +3881,26 @@
 			(type default)
 		)
 		(uuid "7f5905f7-6e93-4089-a290-428ae27bffa4")
+	)
+	(wire
+		(pts
+			(xy 30.48 93.98) (xy 30.48 95.25)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "8082548f-914f-49f8-984b-853890ba9fe2")
+	)
+	(wire
+		(pts
+			(xy 30.48 107.95) (xy 30.48 106.68)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "812497c0-95fe-4a89-8ceb-e6e910540c06")
 	)
 	(wire
 		(pts
@@ -3841,6 +3961,16 @@
 			(type default)
 		)
 		(uuid "851a9f57-7dbb-46bc-9572-42f1f292e60f")
+	)
+	(wire
+		(pts
+			(xy 30.48 115.57) (xy 30.48 116.84)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "85c14dc8-ce30-480e-9d05-95317f1a4269")
 	)
 	(wire
 		(pts
@@ -3914,6 +4044,16 @@
 	)
 	(wire
 		(pts
+			(xy 30.48 86.36) (xy 30.48 85.09)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "8fb8a7d5-c38c-471d-9109-ad04e21b651b")
+	)
+	(wire
+		(pts
 			(xy 241.3 45.72) (xy 236.22 45.72)
 		)
 		(stroke
@@ -3944,6 +4084,16 @@
 	)
 	(wire
 		(pts
+			(xy 142.24 107.95) (xy 142.24 106.68)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "963e4eb1-7f2e-4967-97a2-63ec17a04db8")
+	)
+	(wire
+		(pts
 			(xy 120.65 62.23) (xy 129.54 62.23)
 		)
 		(stroke
@@ -3961,16 +4111,6 @@
 			(type default)
 		)
 		(uuid "969079dd-d1c1-4615-9d45-7834a46967ac")
-	)
-	(wire
-		(pts
-			(xy 36.83 106.68) (xy 41.91 106.68)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "983ad40f-ac87-4832-8bfd-51e103602e6f")
 	)
 	(wire
 		(pts
@@ -4304,6 +4444,16 @@
 	)
 	(wire
 		(pts
+			(xy 134.62 62.23) (xy 140.97 62.23)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "b1ec4510-bde5-4b61-953a-d5ee46adb277")
+	)
+	(wire
+		(pts
 			(xy 128.27 21.59) (xy 123.19 21.59)
 		)
 		(stroke
@@ -4421,6 +4571,16 @@
 			(type default)
 		)
 		(uuid "bd483111-6c6c-4ec5-9381-695b15760154")
+	)
+	(wire
+		(pts
+			(xy 142.24 86.36) (xy 142.24 85.09)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "bdd7acdb-f1c8-44fa-9d52-fd18dc2454e5")
 	)
 	(wire
 		(pts
@@ -4824,6 +4984,16 @@
 	)
 	(wire
 		(pts
+			(xy 30.48 95.25) (xy 36.83 95.25)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "e6ad8136-f52e-4b07-b0dc-0d9bf9ba056f")
+	)
+	(wire
+		(pts
 			(xy 26.67 104.14) (xy 36.83 104.14)
 		)
 		(stroke
@@ -4864,6 +5034,26 @@
 	)
 	(wire
 		(pts
+			(xy 140.97 72.39) (xy 134.62 72.39)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "eac27d3b-aea5-42bb-bd1c-e6f99f14803e")
+	)
+	(wire
+		(pts
+			(xy 142.24 115.57) (xy 142.24 116.84)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "ebbd9cef-a91d-475c-ab74-64431b256904")
+	)
+	(wire
+		(pts
 			(xy 62.23 62.23) (xy 62.23 73.66)
 		)
 		(stroke
@@ -4901,6 +5091,26 @@
 			(type default)
 		)
 		(uuid "ef432ecb-f7bf-42fe-bfed-5568e8e81efc")
+	)
+	(wire
+		(pts
+			(xy 30.48 85.09) (xy 36.83 85.09)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "ef82d853-3aa8-45a7-ad96-d9edcbcd1223")
+	)
+	(wire
+		(pts
+			(xy 142.24 93.98) (xy 142.24 95.25)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "efa06899-07eb-4f9a-b322-e18fece0be11")
 	)
 	(wire
 		(pts
@@ -4974,6 +5184,16 @@
 	)
 	(wire
 		(pts
+			(xy 31.75 72.39) (xy 38.1 72.39)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "f5a97a32-a497-4cbe-a97a-dd8e37a7cd2b")
+	)
+	(wire
+		(pts
 			(xy 41.91 93.98) (xy 41.91 95.25)
 		)
 		(stroke
@@ -5001,6 +5221,16 @@
 			(type default)
 		)
 		(uuid "f836dbdf-d788-42af-b2fe-c3fcc2e42cff")
+	)
+	(wire
+		(pts
+			(xy 142.24 95.25) (xy 135.89 95.25)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "f8651214-3f21-4f5d-bd27-f66fac6a886a")
 	)
 	(wire
 		(pts
@@ -5595,6 +5825,88 @@
 		)
 	)
 	(symbol
+		(lib_id "Device:C")
+		(at 31.75 67.31 0)
+		(mirror y)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(uuid "023e4a2f-3395-4771-a731-7b31c0642fac")
+		(property "Reference" "C249"
+			(at 30.988 64.77 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "22u"
+			(at 30.988 69.85 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "Capacitor_SMD:C_0805_2012Metric"
+			(at 30.7848 71.12 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 31.75 67.31 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "Unpolarized capacitor"
+			(at 31.75 67.31 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "1"
+			(uuid "12a3a1cb-20d5-4e19-9d7f-922961ccef17")
+		)
+		(pin "2"
+			(uuid "55fef93f-e384-4f07-b90a-3e315db4e7e9")
+		)
+		(instances
+			(project "KU5P_Core"
+				(path "/68d0ebd3-4770-4e42-a15d-94722405f64d/ca568b1d-a558-4336-b7e2-be12f8fb35d1/6988b94f-4fe9-4a8a-87b3-ac7dbeb7ca47"
+					(reference "C249")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "Device:C_Polarized")
 		(at 256.54 53.34 0)
 		(unit 1)
@@ -5804,7 +6116,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Inductor_SMD:L_Changjiang_FXL0420"
+		(property "Footprint" "Inductor_SMD:L_Changjiang_FTC252012S"
 			(at 53.34 106.68 0)
 			(hide yes)
 			(show_name no)
@@ -6458,6 +6770,87 @@
 				)
 				(path "/f061e5df-2244-4607-a8a7-c7dc6377043b/6ea250fb-14f9-4f96-84ea-bbdc748c37f7/5749d9b3-0802-4271-94c3-398fed111db7"
 					(reference "#PWR0127")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Device:C")
+		(at 142.24 90.17 0)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(uuid "1897128d-6436-4bbb-8918-459fa486ce42")
+		(property "Reference" "C250"
+			(at 143.002 87.63 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "22u"
+			(at 143.002 92.71 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "Capacitor_SMD:C_0805_2012Metric"
+			(at 143.2052 93.98 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 142.24 90.17 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "Unpolarized capacitor"
+			(at 142.24 90.17 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "1"
+			(uuid "d523ea82-90e4-48cc-97dc-46fdae7952ec")
+		)
+		(pin "2"
+			(uuid "9c9bfce3-e8ce-48e0-a1f0-260976d65b69")
+		)
+		(instances
+			(project "KU5P_Core"
+				(path "/68d0ebd3-4770-4e42-a15d-94722405f64d/ca568b1d-a558-4336-b7e2-be12f8fb35d1/6988b94f-4fe9-4a8a-87b3-ac7dbeb7ca47"
+					(reference "C250")
 					(unit 1)
 				)
 			)
@@ -8993,7 +9386,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Inductor_SMD:L_Changjiang_FXL0420"
+		(property "Footprint" "Inductor_SMD:L_Changjiang_FTC252012S"
 			(at 118.11 85.09 0)
 			(hide yes)
 			(show_name no)
@@ -9632,6 +10025,87 @@
 		)
 	)
 	(symbol
+		(lib_id "Device:C")
+		(at 142.24 111.76 0)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(uuid "9f355fe4-bf33-4e7f-992e-9d36b4857541")
+		(property "Reference" "C251"
+			(at 143.002 109.22 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "22u"
+			(at 143.002 114.3 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "Capacitor_SMD:C_0805_2012Metric"
+			(at 143.2052 115.57 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 142.24 111.76 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "Unpolarized capacitor"
+			(at 142.24 111.76 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "1"
+			(uuid "6f74fa6b-59d7-4d92-a768-d28d32cbac93")
+		)
+		(pin "2"
+			(uuid "93ea20c5-8be4-42eb-947f-5217df605cc3")
+		)
+		(instances
+			(project "KU5P_Core"
+				(path "/68d0ebd3-4770-4e42-a15d-94722405f64d/ca568b1d-a558-4336-b7e2-be12f8fb35d1/6988b94f-4fe9-4a8a-87b3-ac7dbeb7ca47"
+					(reference "C251")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "Device:L")
 		(at 116.84 62.23 270)
 		(mirror x)
@@ -9663,7 +10137,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Inductor_SMD:L_Changjiang_FXL0420"
+		(property "Footprint" "Inductor_SMD:L_Changjiang_FTC252012S"
 			(at 116.84 62.23 0)
 			(hide yes)
 			(show_name no)
@@ -9795,6 +10269,88 @@
 	)
 	(symbol
 		(lib_id "Device:C")
+		(at 30.48 111.76 0)
+		(mirror y)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(uuid "aa71d067-ead8-42e3-99e5-00010e4e0dec")
+		(property "Reference" "C248"
+			(at 29.718 109.22 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "22u"
+			(at 29.718 114.3 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "Capacitor_SMD:C_0805_2012Metric"
+			(at 29.5148 115.57 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 30.48 111.76 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "Unpolarized capacitor"
+			(at 30.48 111.76 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "1"
+			(uuid "cf41c500-f461-4ceb-808e-4eab7e0ec8d3")
+		)
+		(pin "2"
+			(uuid "eda6b38e-a8f0-44d1-aebb-202473f59a27")
+		)
+		(instances
+			(project "KU5P_Core"
+				(path "/68d0ebd3-4770-4e42-a15d-94722405f64d/ca568b1d-a558-4336-b7e2-be12f8fb35d1/6988b94f-4fe9-4a8a-87b3-ac7dbeb7ca47"
+					(reference "C248")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Device:C")
 		(at 194.31 143.51 0)
 		(mirror y)
 		(unit 1)
@@ -9870,6 +10426,87 @@
 			(project "KU5P_Core"
 				(path "/68d0ebd3-4770-4e42-a15d-94722405f64d/ca568b1d-a558-4336-b7e2-be12f8fb35d1/6988b94f-4fe9-4a8a-87b3-ac7dbeb7ca47"
 					(reference "C246")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Device:C")
+		(at 140.97 67.31 0)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(uuid "add673bf-78bb-41a1-a318-9c84e7d37820")
+		(property "Reference" "C252"
+			(at 141.732 64.77 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "22u"
+			(at 141.732 69.85 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "Capacitor_SMD:C_0805_2012Metric"
+			(at 141.9352 71.12 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 140.97 67.31 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "Unpolarized capacitor"
+			(at 140.97 67.31 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "1"
+			(uuid "8c47e3e4-25ee-42d3-a808-76871a7f917f")
+		)
+		(pin "2"
+			(uuid "5f0b4fd8-cc6e-4d3e-bb46-f13c78d51f0c")
+		)
+		(instances
+			(project "KU5P_Core"
+				(path "/68d0ebd3-4770-4e42-a15d-94722405f64d/ca568b1d-a558-4336-b7e2-be12f8fb35d1/6988b94f-4fe9-4a8a-87b3-ac7dbeb7ca47"
+					(reference "C252")
 					(unit 1)
 				)
 			)
@@ -10096,7 +10733,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Inductor_SMD:L_Changjiang_FXL0420"
+		(property "Footprint" "Inductor_SMD:L_Changjiang_FTC252012S"
 			(at 54.61 85.09 0)
 			(hide yes)
 			(show_name no)
@@ -10308,6 +10945,88 @@
 		)
 	)
 	(symbol
+		(lib_id "Device:C")
+		(at 30.48 90.17 0)
+		(mirror y)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(uuid "ba05c7b4-d979-48a8-8dfc-5322a08a2a56")
+		(property "Reference" "C247"
+			(at 29.718 87.63 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "22u"
+			(at 29.718 92.71 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "Capacitor_SMD:C_0805_2012Metric"
+			(at 29.5148 93.98 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 30.48 90.17 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "Unpolarized capacitor"
+			(at 30.48 90.17 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "1"
+			(uuid "14c1743b-5f66-4b7e-a25e-33d9a5ae8d9a")
+		)
+		(pin "2"
+			(uuid "72cbdd57-3736-4271-8080-9bdf59d4b838")
+		)
+		(instances
+			(project "KU5P_Core"
+				(path "/68d0ebd3-4770-4e42-a15d-94722405f64d/ca568b1d-a558-4336-b7e2-be12f8fb35d1/6988b94f-4fe9-4a8a-87b3-ac7dbeb7ca47"
+					(reference "C247")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "Device:L")
 		(at 119.38 106.68 270)
 		(mirror x)
@@ -10339,7 +11058,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Inductor_SMD:L_Changjiang_FXL0420"
+		(property "Footprint" "Inductor_SMD:L_Changjiang_FTC252012S"
 			(at 119.38 106.68 0)
 			(hide yes)
 			(show_name no)
@@ -11052,7 +11771,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Inductor_SMD:L_Changjiang_FXL0420"
+		(property "Footprint" "Inductor_SMD:L_Changjiang_FTC252012S"
 			(at 55.88 62.23 0)
 			(hide yes)
 			(show_name no)
