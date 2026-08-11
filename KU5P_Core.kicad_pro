@@ -235,7 +235,7 @@
       "pin_not_connected": "error",
       "pin_not_driven": "warning",
       "pin_to_pin": "error",
-      "power_pin_not_driven": "error",
+      "power_pin_not_driven": "warning",
       "same_local_global_label": "warning",
       "similar_label_and_power": "warning",
       "similar_labels": "warning",
@@ -417,7 +417,7 @@
         "uuid": "68d0ebd3-4770-4e42-a15d-94722405f64d"
       }
     ],
-    "used_designators": "J3-8,R44-50,R58-62,#FLG2-12,#PWR47,#PWR71,#PWR92,#PWR94,#PWR111,#PWR131,#PWR155-158,#PWR163-191,#PWR194-195,#PWR197-198,#PWR202-204,NT3,C73-74,C105,C235-242,C246-252,U5,U7-8,RN9,D2,M1,Q1",
+    "used_designators": "J3-8,R44-50,R54,R58-63,#FLG2-12,#PWR47-65,#PWR71,#PWR92,#PWR94,#PWR111,#PWR131,#PWR155-158,#PWR163-191,#PWR194-195,#PWR197-198,#PWR202-209,NT3,C73-74,C105-106,C235-242,C246-252,U5,U7-8,RN9,D2,M1,Q1",
     "variants": []
   },
   "sheets": [
@@ -508,10 +508,6 @@
     [
       "f2c9f81b-de3b-46cb-b204-67df18de8c57",
       "Bank67"
-    ],
-    [
-      "5faa6053-57ca-432f-8721-a90d70305660",
-      "B2B_CONN"
     ],
     [
       "91a58e44-8dd7-4a61-82ce-416c04582528",

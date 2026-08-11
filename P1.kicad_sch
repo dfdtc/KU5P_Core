@@ -2815,10 +2815,6 @@
 		(uuid "4658e412-a915-45aa-a1ee-22b174806961")
 	)
 	(no_connect
-		(at 195.58 91.44)
-		(uuid "7ef82398-df36-434d-8a8d-01c1614f30cd")
-	)
-	(no_connect
 		(at 71.12 152.4)
 		(uuid "81a65e91-bf8d-4c33-8b57-a9a35ec526c1")
 	)
@@ -5511,6 +5507,28 @@
 			(justify right bottom)
 		)
 		(uuid "fcfe1de6-d9a9-4e35-894b-c6dc5d0352d3")
+	)
+	(global_label "PMIC_32KOUT"
+		(shape output)
+		(at 195.58 91.44 180)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "a336ea02-8630-4616-9ec3-7a0f9de06cd3")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 195.58 91.44 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 	)
 	(hierarchical_label "VCCO_HD87"
 		(shape output)
@@ -12627,7 +12645,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "f618502a-0777-4f82-84f0-2298bb27c424")
-		(property "Reference" "#PWR047"
+		(property "Reference" "#PWR47"
 			(at 180.34 157.48 0)
 			(hide yes)
 			(show_name no)
@@ -12687,7 +12705,7 @@
 		(instances
 			(project "KU5P_Core"
 				(path "/68d0ebd3-4770-4e42-a15d-94722405f64d/ca568b1d-a558-4336-b7e2-be12f8fb35d1/6988b94f-4fe9-4a8a-87b3-ac7dbeb7ca47"
-					(reference "#PWR047")
+					(reference "#PWR47")
 					(unit 1)
 				)
 			)

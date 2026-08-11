@@ -6,52 +6,6 @@
 	(paper "A4")
 	(lib_symbols)
 	(sheet
-		(at 36.83 39.37)
-		(size 12.7 39.37)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(stroke
-			(width 0.1524)
-			(type solid)
-		)
-		(fill
-			(color 0 0 0 0)
-		)
-		(uuid "5faa6053-57ca-432f-8721-a90d70305660")
-		(property "Sheetname" "B2B_CONN"
-			(at 36.83 38.6584 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left bottom)
-			)
-		)
-		(property "Sheetfile" "B2B_CONN.kicad_sch"
-			(at 36.83 79.3246 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left top)
-			)
-		)
-		(instances
-			(project "KU5P_Core"
-				(path "/68d0ebd3-4770-4e42-a15d-94722405f64d"
-					(page "23")
-				)
-			)
-		)
-	)
-	(sheet
 		(at 73.66 63.5)
 		(size 12.7 16.51)
 		(exclude_from_sim no)

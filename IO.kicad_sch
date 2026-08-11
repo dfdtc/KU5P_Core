@@ -6,7 +6,7 @@
 	(paper "A4")
 	(lib_symbols)
 	(sheet
-		(at 74.93 121.92)
+		(at 142.24 96.52)
 		(size 12.7 3.81)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -22,7 +22,7 @@
 		)
 		(uuid "15ff1c1c-9184-4a33-bf91-4ebd928d44e3")
 		(property "Sheetname" "HP_BANK"
-			(at 74.93 121.2084 0)
+			(at 142.24 95.8084 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -33,7 +33,7 @@
 			)
 		)
 		(property "Sheetfile" "HP_BANK.kicad_sch"
-			(at 74.93 126.3146 0)
+			(at 142.24 100.9146 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -52,7 +52,7 @@
 		)
 	)
 	(sheet
-		(at 74.93 104.14)
+		(at 142.24 78.74)
 		(size 12.7 3.81)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -68,7 +68,7 @@
 		)
 		(uuid "1cc1f301-f9be-4549-96f2-e34678c8efe7")
 		(property "Sheetname" "HD_BANK"
-			(at 74.93 103.4284 0)
+			(at 142.24 78.0284 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -79,7 +79,7 @@
 			)
 		)
 		(property "Sheetfile" "HD_BANK.kicad_sch"
-			(at 74.93 108.5346 0)
+			(at 142.24 83.1346 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
