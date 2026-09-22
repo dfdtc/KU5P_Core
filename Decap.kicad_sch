@@ -710,12 +710,6 @@
 		(uuid "02d88725-cca7-48e2-bd37-4ec7c31f83e9")
 	)
 	(junction
-		(at 200.66 66.04)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "056d1ca0-0a1f-4364-9bef-2af5d34fac28")
-	)
-	(junction
 		(at 153.67 71.12)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -744,24 +738,6 @@
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "2653e89d-a626-4326-a386-675cf1b754ac")
-	)
-	(junction
-		(at 207.01 58.42)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "2dc00359-ce3e-4ccc-b9f9-2a0d22ff201d")
-	)
-	(junction
-		(at 232.41 66.04)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "3b50b1b8-0060-405f-9b41-04809363a0d8")
-	)
-	(junction
-		(at 200.66 58.42)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "45630e9f-cbda-44a6-8ce0-50d4ff502e79")
 	)
 	(junction
 		(at 147.32 43.18)
@@ -842,24 +818,6 @@
 		(uuid "81f9a712-72ca-4b8e-9a1c-af680bb056a7")
 	)
 	(junction
-		(at 251.46 66.04)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "842e4110-e0e9-4e2c-824b-602a45fc3d3e")
-	)
-	(junction
-		(at 232.41 58.42)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "844667bd-dbe3-4c2d-bcea-a2446293701c")
-	)
-	(junction
-		(at 213.36 58.42)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "8d16ea9c-e3ee-4b85-976a-01bc525548f0")
-	)
-	(junction
 		(at 147.32 71.12)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -876,12 +834,6 @@
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "94a28a9c-cf58-4c61-b437-13504d73c342")
-	)
-	(junction
-		(at 207.01 66.04)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "95969947-4a0f-4a44-a5a4-096fd5a70d57")
 	)
 	(junction
 		(at 252.73 29.21)
@@ -938,12 +890,6 @@
 		(uuid "c47ac788-3f63-458a-bd97-5f5ae3a6aaba")
 	)
 	(junction
-		(at 251.46 58.42)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "c47c66fc-dcd5-42e2-a70e-b2eddde19611")
-	)
-	(junction
 		(at 172.72 43.18)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -984,12 +930,6 @@
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "e2647f64-5ce1-4043-a3ea-efa6c38f60c2")
-	)
-	(junction
-		(at 213.36 66.04)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "f025ede5-b8ed-4e4e-b51a-8722b2bd3b08")
 	)
 	(junction
 		(at 172.72 27.94)
@@ -1049,26 +989,6 @@
 	)
 	(wire
 		(pts
-			(xy 232.41 57.15) (xy 232.41 58.42)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "075d04d4-378d-43c4-95ca-8b84bb7bcdcd")
-	)
-	(wire
-		(pts
-			(xy 200.66 66.04) (xy 207.01 66.04)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "079665c8-9428-405e-8e20-10abf792136f")
-	)
-	(wire
-		(pts
 			(xy 147.32 27.94) (xy 172.72 27.94)
 		)
 		(stroke
@@ -1076,16 +996,6 @@
 			(type default)
 		)
 		(uuid "0b598d7f-3af8-4ec1-a5d5-e1b6a5667039")
-	)
-	(wire
-		(pts
-			(xy 232.41 58.42) (xy 238.76 58.42)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "0c54b892-1d12-4656-a707-3143e88ea042")
 	)
 	(wire
 		(pts
@@ -1199,16 +1109,6 @@
 	)
 	(wire
 		(pts
-			(xy 207.01 66.04) (xy 213.36 66.04)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "2d87c180-bd7b-48b6-b5f1-e28deb743b98")
-	)
-	(wire
-		(pts
 			(xy 237.49 36.83) (xy 237.49 38.1)
 		)
 		(stroke
@@ -1226,26 +1126,6 @@
 			(type default)
 		)
 		(uuid "2e13f1a1-2263-4f4c-a851-5059ebe5456e")
-	)
-	(wire
-		(pts
-			(xy 213.36 58.42) (xy 219.71 58.42)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "2eab77a3-d5f2-4fda-8ff5-53b1f7cc3a9b")
-	)
-	(wire
-		(pts
-			(xy 232.41 66.04) (xy 238.76 66.04)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "2eb4e076-ac49-453f-918f-1ba0057a2037")
 	)
 	(wire
 		(pts
@@ -1276,16 +1156,6 @@
 			(type default)
 		)
 		(uuid "3ab9b9c9-f2ee-4fef-9aed-939f684ecb55")
-	)
-	(wire
-		(pts
-			(xy 213.36 66.04) (xy 219.71 66.04)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "3b766aa9-66b6-4e41-90ff-33c1bdb95d34")
 	)
 	(wire
 		(pts
@@ -1359,16 +1229,6 @@
 	)
 	(wire
 		(pts
-			(xy 251.46 66.04) (xy 257.81 66.04)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "5b8b958b-959e-48fb-87a1-2fa4f7ab2b47")
-	)
-	(wire
-		(pts
 			(xy 252.73 27.94) (xy 252.73 29.21)
 		)
 		(stroke
@@ -1376,16 +1236,6 @@
 			(type default)
 		)
 		(uuid "5c7ee33c-a431-4666-80af-7106323c5153")
-	)
-	(wire
-		(pts
-			(xy 232.41 66.04) (xy 232.41 67.31)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "5d957cfb-04b4-4b48-a771-817b35f0342d")
 	)
 	(wire
 		(pts
@@ -1456,16 +1306,6 @@
 			(type default)
 		)
 		(uuid "7f648d74-0b5d-4053-8f5a-90c2d4bd5ec4")
-	)
-	(wire
-		(pts
-			(xy 251.46 66.04) (xy 251.46 67.31)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "812eb288-e790-4a39-acc8-ddfdca750a82")
 	)
 	(wire
 		(pts
@@ -1619,16 +1459,6 @@
 	)
 	(wire
 		(pts
-			(xy 251.46 57.15) (xy 251.46 58.42)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "ceac8970-a556-4f6f-8952-6f424635f2cc")
-	)
-	(wire
-		(pts
 			(xy 140.97 64.77) (xy 140.97 66.04)
 		)
 		(stroke
@@ -1636,36 +1466,6 @@
 			(type default)
 		)
 		(uuid "d0ab1d5e-a3b0-4a87-9d86-da247bce100e")
-	)
-	(wire
-		(pts
-			(xy 251.46 58.42) (xy 257.81 58.42)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "d1176c25-3025-4008-8bdc-8999753c698b")
-	)
-	(wire
-		(pts
-			(xy 200.66 66.04) (xy 200.66 67.31)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "d89764d7-3ed7-48c5-9841-491981a995ea")
-	)
-	(wire
-		(pts
-			(xy 200.66 57.15) (xy 200.66 58.42)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "df9bd24a-55f6-47b9-a85f-f038d6825c51")
 	)
 	(wire
 		(pts
@@ -1689,16 +1489,6 @@
 	)
 	(wire
 		(pts
-			(xy 207.01 58.42) (xy 213.36 58.42)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "ed3338de-0e5a-45b7-8b1f-5a61fe78edb5")
-	)
-	(wire
-		(pts
 			(xy 140.97 27.94) (xy 147.32 27.94)
 		)
 		(stroke
@@ -1716,16 +1506,6 @@
 			(type default)
 		)
 		(uuid "f203dcb5-79fe-47ef-9a5e-73d8d2341d5d")
-	)
-	(wire
-		(pts
-			(xy 200.66 58.42) (xy 207.01 58.42)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "f3369332-8f9e-480b-a0f1-80e02fd765a7")
 	)
 	(wire
 		(pts
@@ -1829,160 +1609,6 @@
 			(project "KU5P_Core"
 				(path "/68d0ebd3-4770-4e42-a15d-94722405f64d/8a27e5b5-485e-4923-a8ca-92c1e43f1f46/5049a9a9-7754-4ba5-aecc-b7a55f8a49b6/2db7d078-14fc-41ba-bdbf-3d6de0c41412"
 					(reference "#PWR96")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "dfdtc_power:GND")
-		(at 251.46 67.31 0)
-		(unit 1)
-		(body_style 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(in_pos_files yes)
-		(dnp no)
-		(uuid "0f5ecafc-f7c3-4b7f-b9b4-26ceeb318a44")
-		(property "Reference" "#PWR108"
-			(at 251.46 73.66 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "GND"
-			(at 251.46 71.12 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" ""
-			(at 251.46 67.31 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Datasheet" ""
-			(at 251.46 67.31 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 251.46 67.31 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(pin "1"
-			(uuid "e146dd5e-d954-4a54-8096-780f26d69003")
-		)
-		(instances
-			(project "KU5P_Core"
-				(path "/68d0ebd3-4770-4e42-a15d-94722405f64d/8a27e5b5-485e-4923-a8ca-92c1e43f1f46/5049a9a9-7754-4ba5-aecc-b7a55f8a49b6/2db7d078-14fc-41ba-bdbf-3d6de0c41412"
-					(reference "#PWR108")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "dfdtc_power:GND")
-		(at 232.41 67.31 0)
-		(unit 1)
-		(body_style 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(in_pos_files yes)
-		(dnp no)
-		(uuid "164875fe-61d5-434e-9d21-8771020726c1")
-		(property "Reference" "#PWR107"
-			(at 232.41 73.66 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "GND"
-			(at 232.41 71.12 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" ""
-			(at 232.41 67.31 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Datasheet" ""
-			(at 232.41 67.31 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 232.41 67.31 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(pin "1"
-			(uuid "0c73521b-2867-43da-93c8-f799354d8109")
-		)
-		(instances
-			(project "KU5P_Core"
-				(path "/68d0ebd3-4770-4e42-a15d-94722405f64d/8a27e5b5-485e-4923-a8ca-92c1e43f1f46/5049a9a9-7754-4ba5-aecc-b7a55f8a49b6/2db7d078-14fc-41ba-bdbf-3d6de0c41412"
-					(reference "#PWR107")
 					(unit 1)
 				)
 			)
@@ -2308,87 +1934,6 @@
 	)
 	(symbol
 		(lib_id "Device:C")
-		(at 238.76 62.23 0)
-		(unit 1)
-		(body_style 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(in_pos_files yes)
-		(dnp no)
-		(uuid "279a7d14-d844-49d1-bf4d-e21a11a8f9f9")
-		(property "Reference" "C167"
-			(at 239.522 60.198 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Value" "100n"
-			(at 239.522 64.516 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Footprint" "Capacitor_SMD:C_0201_0603Metric"
-			(at 239.7252 66.04 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Datasheet" ""
-			(at 238.76 62.23 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Description" "Unpolarized capacitor"
-			(at 238.76 62.23 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(pin "2"
-			(uuid "73ecc6ea-6486-48e8-ad80-5d3f2a318c38")
-		)
-		(pin "1"
-			(uuid "32310668-9af3-46c2-ab39-371253f6a251")
-		)
-		(instances
-			(project "KU5P_Core"
-				(path "/68d0ebd3-4770-4e42-a15d-94722405f64d/8a27e5b5-485e-4923-a8ca-92c1e43f1f46/5049a9a9-7754-4ba5-aecc-b7a55f8a49b6/2db7d078-14fc-41ba-bdbf-3d6de0c41412"
-					(reference "C167")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Device:C")
 		(at 160.02 60.96 0)
 		(unit 1)
 		(body_style 1)
@@ -2550,84 +2095,6 @@
 		)
 	)
 	(symbol
-		(lib_id "dfdtc_power:+1V8")
-		(at 251.46 57.15 0)
-		(unit 1)
-		(body_style 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(in_pos_files yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "48f45f9b-94f4-47f2-939a-36b467596f72")
-		(property "Reference" "#PWR91"
-			(at 251.46 60.96 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "D4_VTT"
-			(at 251.46 52.07 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" ""
-			(at 251.46 57.15 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Datasheet" ""
-			(at 251.46 57.15 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Description" "Power symbol creates a global label with name \"+1V8\""
-			(at 251.46 57.15 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(pin "1"
-			(uuid "0c434ba5-9ff9-4b57-9b3b-f71419a1fc32")
-		)
-		(instances
-			(project "KU5P_Core"
-				(path "/68d0ebd3-4770-4e42-a15d-94722405f64d/8a27e5b5-485e-4923-a8ca-92c1e43f1f46/5049a9a9-7754-4ba5-aecc-b7a55f8a49b6/2db7d078-14fc-41ba-bdbf-3d6de0c41412"
-					(reference "#PWR91")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
 		(lib_id "Device:C")
 		(at 184.15 62.23 0)
 		(unit 1)
@@ -2780,87 +2247,6 @@
 			(project "KU5P_Core"
 				(path "/68d0ebd3-4770-4e42-a15d-94722405f64d/8a27e5b5-485e-4923-a8ca-92c1e43f1f46/5049a9a9-7754-4ba5-aecc-b7a55f8a49b6/2db7d078-14fc-41ba-bdbf-3d6de0c41412"
 					(reference "#PWR97")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Device:C")
-		(at 200.66 62.23 0)
-		(unit 1)
-		(body_style 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(in_pos_files yes)
-		(dnp no)
-		(uuid "4efd57a6-60c0-49c6-b702-1349299b04c3")
-		(property "Reference" "C161"
-			(at 201.168 59.944 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Value" "10u"
-			(at 201.422 64.516 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric"
-			(at 201.6252 66.04 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Datasheet" ""
-			(at 200.66 62.23 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Description" "Unpolarized capacitor"
-			(at 200.66 62.23 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(pin "1"
-			(uuid "99613f79-b1e1-4836-8ab5-6ce4539594b5")
-		)
-		(pin "2"
-			(uuid "6a7c5c66-9c2e-445d-b357-6c9f3d5eacb6")
-		)
-		(instances
-			(project "KU5P_Core"
-				(path "/68d0ebd3-4770-4e42-a15d-94722405f64d/8a27e5b5-485e-4923-a8ca-92c1e43f1f46/5049a9a9-7754-4ba5-aecc-b7a55f8a49b6/2db7d078-14fc-41ba-bdbf-3d6de0c41412"
-					(reference "C161")
 					(unit 1)
 				)
 			)
@@ -3187,84 +2573,6 @@
 		)
 	)
 	(symbol
-		(lib_id "dfdtc_power:+1V8")
-		(at 195.58 27.94 0)
-		(unit 1)
-		(body_style 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(in_pos_files yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "59d0ea7d-4847-4f76-b4ad-237cf8a18742")
-		(property "Reference" "#PWR85"
-			(at 195.58 31.75 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "MGTVCCAUX"
-			(at 195.58 22.86 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" ""
-			(at 195.58 27.94 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Datasheet" ""
-			(at 195.58 27.94 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Description" "Power symbol creates a global label with name \"+1V8\""
-			(at 195.58 27.94 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(pin "1"
-			(uuid "7b3eb750-a717-410f-84c6-bb1d3042e5a8")
-		)
-		(instances
-			(project "KU5P_Core"
-				(path "/68d0ebd3-4770-4e42-a15d-94722405f64d/8a27e5b5-485e-4923-a8ca-92c1e43f1f46/5049a9a9-7754-4ba5-aecc-b7a55f8a49b6/2db7d078-14fc-41ba-bdbf-3d6de0c41412"
-					(reference "#PWR85")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
 		(lib_id "Device:C")
 		(at 153.67 74.93 0)
 		(unit 1)
@@ -3577,87 +2885,6 @@
 			(project "KU5P_Core"
 				(path "/68d0ebd3-4770-4e42-a15d-94722405f64d/8a27e5b5-485e-4923-a8ca-92c1e43f1f46/5049a9a9-7754-4ba5-aecc-b7a55f8a49b6/2db7d078-14fc-41ba-bdbf-3d6de0c41412"
 					(reference "#PWR88")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Device:C")
-		(at 207.01 62.23 0)
-		(unit 1)
-		(body_style 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(in_pos_files yes)
-		(dnp no)
-		(uuid "726638ff-3f6e-4710-b3d2-2de04fbce4fd")
-		(property "Reference" "C165"
-			(at 207.772 60.198 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Value" "100n"
-			(at 207.772 64.516 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Footprint" "Capacitor_SMD:C_0201_0603Metric"
-			(at 207.9752 66.04 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Datasheet" ""
-			(at 207.01 62.23 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Description" "Unpolarized capacitor"
-			(at 207.01 62.23 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(pin "2"
-			(uuid "a7b69ee0-eb58-42f4-b852-d9d17eccc8a8")
-		)
-		(pin "1"
-			(uuid "42b5de7b-394b-46a2-899b-233466e20e50")
-		)
-		(instances
-			(project "KU5P_Core"
-				(path "/68d0ebd3-4770-4e42-a15d-94722405f64d/8a27e5b5-485e-4923-a8ca-92c1e43f1f46/5049a9a9-7754-4ba5-aecc-b7a55f8a49b6/2db7d078-14fc-41ba-bdbf-3d6de0c41412"
-					(reference "C165")
 					(unit 1)
 				)
 			)
@@ -4299,6 +3526,83 @@
 			(project "KU5P_Core"
 				(path "/68d0ebd3-4770-4e42-a15d-94722405f64d/8a27e5b5-485e-4923-a8ca-92c1e43f1f46/5049a9a9-7754-4ba5-aecc-b7a55f8a49b6/2db7d078-14fc-41ba-bdbf-3d6de0c41412"
 					(reference "C137")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "dfdtc_power:+1V8")
+		(at 195.58 27.94 0)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(uuid "8e35892b-451b-4778-af49-4ecd8ffca486")
+		(property "Reference" "#PWR090"
+			(at 195.58 31.75 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "MGTVCCAUX"
+			(at 195.58 23.622 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 195.58 27.94 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 195.58 27.94 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"+1V8\""
+			(at 195.58 27.94 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "1"
+			(uuid "5e2ed220-3343-4aa0-b4b9-60cf058755c9")
+		)
+		(instances
+			(project "KU5P_Core"
+				(path "/68d0ebd3-4770-4e42-a15d-94722405f64d/8a27e5b5-485e-4923-a8ca-92c1e43f1f46/5049a9a9-7754-4ba5-aecc-b7a55f8a49b6/2db7d078-14fc-41ba-bdbf-3d6de0c41412"
+					(reference "#PWR090")
 					(unit 1)
 				)
 			)
@@ -5017,87 +4321,6 @@
 	)
 	(symbol
 		(lib_id "Device:C")
-		(at 251.46 62.23 0)
-		(unit 1)
-		(body_style 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(in_pos_files yes)
-		(dnp no)
-		(uuid "c51ec09a-a48c-49a0-8520-77dc12117643")
-		(property "Reference" "C163"
-			(at 251.968 59.944 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Value" "47u"
-			(at 251.968 64.516 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric"
-			(at 252.4252 66.04 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Datasheet" ""
-			(at 251.46 62.23 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Description" "Unpolarized capacitor"
-			(at 251.46 62.23 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(pin "1"
-			(uuid "09bd8019-e7f1-4dbf-baee-d0445a07c487")
-		)
-		(pin "2"
-			(uuid "6961b368-34c3-4758-9ea3-7076ae7b8d62")
-		)
-		(instances
-			(project "KU5P_Core"
-				(path "/68d0ebd3-4770-4e42-a15d-94722405f64d/8a27e5b5-485e-4923-a8ca-92c1e43f1f46/5049a9a9-7754-4ba5-aecc-b7a55f8a49b6/2db7d078-14fc-41ba-bdbf-3d6de0c41412"
-					(reference "C163")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Device:C")
 		(at 228.6 33.02 0)
 		(unit 1)
 		(body_style 1)
@@ -5255,161 +4478,6 @@
 		)
 	)
 	(symbol
-		(lib_id "dfdtc_power:GND")
-		(at 200.66 67.31 0)
-		(unit 1)
-		(body_style 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(in_pos_files yes)
-		(dnp no)
-		(uuid "ce4e77ff-ba95-4a02-87f9-7e783893d300")
-		(property "Reference" "#PWR106"
-			(at 200.66 73.66 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "GND"
-			(at 200.66 71.12 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" ""
-			(at 200.66 67.31 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Datasheet" ""
-			(at 200.66 67.31 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 200.66 67.31 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(pin "1"
-			(uuid "d1a786ed-ec31-4720-b82d-e692388ef62f")
-		)
-		(instances
-			(project "KU5P_Core"
-				(path "/68d0ebd3-4770-4e42-a15d-94722405f64d/8a27e5b5-485e-4923-a8ca-92c1e43f1f46/5049a9a9-7754-4ba5-aecc-b7a55f8a49b6/2db7d078-14fc-41ba-bdbf-3d6de0c41412"
-					(reference "#PWR106")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "dfdtc_power:+1V8")
-		(at 232.41 57.15 0)
-		(unit 1)
-		(body_style 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(in_pos_files yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "ce4e78e2-1822-4643-95f6-2a2232f0ea86")
-		(property "Reference" "#PWR90"
-			(at 232.41 60.96 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "D4_VPP"
-			(at 232.41 52.07 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" ""
-			(at 232.41 57.15 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Datasheet" ""
-			(at 232.41 57.15 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Description" "Power symbol creates a global label with name \"+1V8\""
-			(at 232.41 57.15 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(pin "1"
-			(uuid "de63ae7a-1975-4e3b-974c-474484a3a484")
-		)
-		(instances
-			(project "KU5P_Core"
-				(path "/68d0ebd3-4770-4e42-a15d-94722405f64d/8a27e5b5-485e-4923-a8ca-92c1e43f1f46/5049a9a9-7754-4ba5-aecc-b7a55f8a49b6/2db7d078-14fc-41ba-bdbf-3d6de0c41412"
-					(reference "#PWR90")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
 		(lib_id "Device:C")
 		(at 160.02 46.99 0)
 		(unit 1)
@@ -5485,87 +4553,6 @@
 			(project "KU5P_Core"
 				(path "/68d0ebd3-4770-4e42-a15d-94722405f64d/8a27e5b5-485e-4923-a8ca-92c1e43f1f46/5049a9a9-7754-4ba5-aecc-b7a55f8a49b6/2db7d078-14fc-41ba-bdbf-3d6de0c41412"
 					(reference "C158")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Device:C")
-		(at 213.36 62.23 0)
-		(unit 1)
-		(body_style 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(in_pos_files yes)
-		(dnp no)
-		(uuid "d16fb914-fcac-46c6-a76c-13558929293e")
-		(property "Reference" "C164"
-			(at 213.868 59.944 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Value" "10u"
-			(at 214.122 64.516 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric"
-			(at 214.3252 66.04 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Datasheet" ""
-			(at 213.36 62.23 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Description" "Unpolarized capacitor"
-			(at 213.36 62.23 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(pin "1"
-			(uuid "172b6cad-9946-458b-877c-f53ec8ca99e4")
-		)
-		(pin "2"
-			(uuid "96e90de2-dfd8-4389-be65-949865527c58")
-		)
-		(instances
-			(project "KU5P_Core"
-				(path "/68d0ebd3-4770-4e42-a15d-94722405f64d/8a27e5b5-485e-4923-a8ca-92c1e43f1f46/5049a9a9-7754-4ba5-aecc-b7a55f8a49b6/2db7d078-14fc-41ba-bdbf-3d6de0c41412"
-					(reference "C164")
 					(unit 1)
 				)
 			)
@@ -5896,246 +4883,6 @@
 		)
 	)
 	(symbol
-		(lib_id "Device:C")
-		(at 257.81 62.23 0)
-		(unit 1)
-		(body_style 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(in_pos_files yes)
-		(dnp no)
-		(uuid "de031133-bb9e-4c42-b2fa-a7bd48fae2d7")
-		(property "Reference" "C168"
-			(at 258.572 60.198 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Value" "100n"
-			(at 258.572 64.516 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Footprint" "Capacitor_SMD:C_0201_0603Metric"
-			(at 258.7752 66.04 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Datasheet" ""
-			(at 257.81 62.23 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Description" "Unpolarized capacitor"
-			(at 257.81 62.23 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(pin "2"
-			(uuid "3e593235-b9ee-44d0-afd1-3d030e4dbda2")
-		)
-		(pin "1"
-			(uuid "e3a1b2c0-46e6-4db9-a3c7-17d7ff12e4d6")
-		)
-		(instances
-			(project "KU5P_Core"
-				(path "/68d0ebd3-4770-4e42-a15d-94722405f64d/8a27e5b5-485e-4923-a8ca-92c1e43f1f46/5049a9a9-7754-4ba5-aecc-b7a55f8a49b6/2db7d078-14fc-41ba-bdbf-3d6de0c41412"
-					(reference "C168")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Device:C")
-		(at 232.41 62.23 0)
-		(unit 1)
-		(body_style 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(in_pos_files yes)
-		(dnp no)
-		(uuid "e1a04c7c-bb7e-409a-8ea1-1ce9c26c5fcd")
-		(property "Reference" "C162"
-			(at 232.918 59.944 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Value" "10u"
-			(at 232.918 64.516 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Footprint" "Capacitor_SMD:C_0402_1005Metric"
-			(at 233.3752 66.04 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Datasheet" ""
-			(at 232.41 62.23 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Description" "Unpolarized capacitor"
-			(at 232.41 62.23 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(pin "1"
-			(uuid "dac9efab-154b-4d4b-87e1-e27e3b04abb8")
-		)
-		(pin "2"
-			(uuid "d39273c5-f0b8-42f0-82e0-38fd977472a0")
-		)
-		(instances
-			(project "KU5P_Core"
-				(path "/68d0ebd3-4770-4e42-a15d-94722405f64d/8a27e5b5-485e-4923-a8ca-92c1e43f1f46/5049a9a9-7754-4ba5-aecc-b7a55f8a49b6/2db7d078-14fc-41ba-bdbf-3d6de0c41412"
-					(reference "C162")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "dfdtc_power:+1V8")
-		(at 200.66 57.15 0)
-		(unit 1)
-		(body_style 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(in_pos_files yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "e545400a-b14e-405e-9965-3647ab3fd4c9")
-		(property "Reference" "#PWR89"
-			(at 200.66 60.96 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "D4_VDD"
-			(at 200.66 52.07 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" ""
-			(at 200.66 57.15 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Datasheet" ""
-			(at 200.66 57.15 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Description" "Power symbol creates a global label with name \"+1V8\""
-			(at 200.66 57.15 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(pin "1"
-			(uuid "206df23c-4c7c-45a5-be42-cfad281eb4e5")
-		)
-		(instances
-			(project "KU5P_Core"
-				(path "/68d0ebd3-4770-4e42-a15d-94722405f64d/8a27e5b5-485e-4923-a8ca-92c1e43f1f46/5049a9a9-7754-4ba5-aecc-b7a55f8a49b6/2db7d078-14fc-41ba-bdbf-3d6de0c41412"
-					(reference "#PWR89")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
 		(lib_id "dfdtc_power:GND")
 		(at 252.73 38.1 0)
 		(unit 1)
@@ -6288,87 +5035,6 @@
 			(project "KU5P_Core"
 				(path "/68d0ebd3-4770-4e42-a15d-94722405f64d/8a27e5b5-485e-4923-a8ca-92c1e43f1f46/5049a9a9-7754-4ba5-aecc-b7a55f8a49b6/2db7d078-14fc-41ba-bdbf-3d6de0c41412"
 					(reference "C160")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Device:C")
-		(at 219.71 62.23 0)
-		(unit 1)
-		(body_style 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(in_pos_files yes)
-		(dnp no)
-		(uuid "e99b378c-1b62-41f5-9334-69a2eedf2ca1")
-		(property "Reference" "C166"
-			(at 220.472 60.198 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Value" "100n"
-			(at 220.472 64.516 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Footprint" "Capacitor_SMD:C_0201_0603Metric"
-			(at 220.6752 66.04 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Datasheet" ""
-			(at 219.71 62.23 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Description" "Unpolarized capacitor"
-			(at 219.71 62.23 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(pin "2"
-			(uuid "c48c6405-8037-4b2b-b362-bc40aee88d51")
-		)
-		(pin "1"
-			(uuid "d3f61353-ffe4-4f85-8481-0ccdaf0214af")
-		)
-		(instances
-			(project "KU5P_Core"
-				(path "/68d0ebd3-4770-4e42-a15d-94722405f64d/8a27e5b5-485e-4923-a8ca-92c1e43f1f46/5049a9a9-7754-4ba5-aecc-b7a55f8a49b6/2db7d078-14fc-41ba-bdbf-3d6de0c41412"
-					(reference "C166")
 					(unit 1)
 				)
 			)

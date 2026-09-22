@@ -2246,12 +2246,6 @@
 		)
 	)
 	(junction
-		(at 196.85 132.08)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "0038e608-aa24-4815-bf88-d6f295afe88b")
-	)
-	(junction
 		(at 121.92 152.4)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -2911,6 +2905,16 @@
 	)
 	(wire
 		(pts
+			(xy 209.55 157.48) (xy 207.01 157.48)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "01cd4ef5-b8db-4520-8360-659b8b163900")
+	)
+	(wire
+		(pts
 			(xy 127 134.62) (xy 127 142.24)
 		)
 		(stroke
@@ -3011,6 +3015,16 @@
 	)
 	(wire
 		(pts
+			(xy 201.93 157.48) (xy 199.39 157.48)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "0b4f4355-64a8-4ad7-ad93-e8da15fbc058")
+	)
+	(wire
+		(pts
 			(xy 207.01 116.84) (xy 218.44 116.84)
 		)
 		(stroke
@@ -3068,6 +3082,16 @@
 			(type default)
 		)
 		(uuid "0ec1fdad-4c19-404a-a54b-5d422850321e")
+	)
+	(wire
+		(pts
+			(xy 217.17 157.48) (xy 214.63 157.48)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "0ede6f84-6935-46a4-9c99-98a5c1a5f0d4")
 	)
 	(wire
 		(pts
@@ -3399,6 +3423,16 @@
 		)
 		(uuid "27333b6a-80b3-4fac-bdf7-ad9fa92581d0")
 	)
+	(wire
+		(pts
+			(xy 217.17 146.05) (xy 214.63 146.05)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "279b34d1-a341-4275-a3fc-4eace86fd59e")
+	)
 	(bus
 		(pts
 			(xy 199.39 38.1) (xy 199.39 43.18)
@@ -3491,6 +3525,16 @@
 	)
 	(wire
 		(pts
+			(xy 214.63 157.48) (xy 214.63 160.02)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "33bc79a0-64c7-48f0-8cbc-c94ff0f7ef01")
+	)
+	(wire
+		(pts
 			(xy 121.92 50.8) (xy 121.92 59.69)
 		)
 		(stroke
@@ -3518,6 +3562,16 @@
 			(type default)
 		)
 		(uuid "36602f5c-6f09-42f1-8bd6-2c69d5256375")
+	)
+	(wire
+		(pts
+			(xy 224.79 146.05) (xy 224.79 148.59)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "3760b36c-3c0e-4739-903b-eda93c9c03bf")
 	)
 	(wire
 		(pts
@@ -3668,6 +3722,16 @@
 			(type default)
 		)
 		(uuid "40d35f72-e8f3-446c-90dd-c519b913ae46")
+	)
+	(wire
+		(pts
+			(xy 194.31 135.89) (xy 196.85 135.89)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "41b9062c-211f-4f29-886c-76eaaa748953")
 	)
 	(wire
 		(pts
@@ -3871,6 +3935,16 @@
 	)
 	(wire
 		(pts
+			(xy 194.31 128.27) (xy 196.85 128.27)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "5640c2f6-3699-470f-b184-591c09745a28")
+	)
+	(wire
+		(pts
 			(xy 201.93 116.84) (xy 198.12 116.84)
 		)
 		(stroke
@@ -3888,6 +3962,16 @@
 			(type default)
 		)
 		(uuid "57a57840-35dd-46a1-9695-080e7ce6bf0c")
+	)
+	(wire
+		(pts
+			(xy 194.31 132.08) (xy 196.85 132.08)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "5995c174-a3cc-431e-80ed-7b73f58bcc53")
 	)
 	(wire
 		(pts
@@ -3968,6 +4052,16 @@
 			(type default)
 		)
 		(uuid "60210ab1-39d7-4c2e-b358-f2961ba60df5")
+	)
+	(wire
+		(pts
+			(xy 224.79 157.48) (xy 224.79 160.02)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "60b68ba7-bf7e-475a-9b9e-072a0ad2f444")
 	)
 	(wire
 		(pts
@@ -4101,13 +4195,13 @@
 	)
 	(wire
 		(pts
-			(xy 196.85 132.08) (xy 196.85 135.89)
+			(xy 209.55 157.48) (xy 209.55 160.02)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "68a5b626-6f7c-4e19-ae83-d961fd37ecfd")
+		(uuid "6899a91e-1662-4231-a828-29b92ebd938c")
 	)
 	(bus
 		(pts
@@ -4621,6 +4715,16 @@
 	)
 	(wire
 		(pts
+			(xy 199.39 157.48) (xy 199.39 160.02)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "9aa541ce-4b42-4909-a440-e69fd06ae02d")
+	)
+	(wire
+		(pts
 			(xy 201.93 83.82) (xy 218.44 83.82)
 		)
 		(stroke
@@ -4628,16 +4732,6 @@
 			(type default)
 		)
 		(uuid "9ad0ffe2-7b69-4003-9abf-ac455ce6f966")
-	)
-	(wire
-		(pts
-			(xy 196.85 128.27) (xy 196.85 132.08)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "9c08bf87-cbe4-4ee0-9b57-c6775e467e3d")
 	)
 	(wire
 		(pts
@@ -4851,6 +4945,16 @@
 	)
 	(wire
 		(pts
+			(xy 224.79 157.48) (xy 222.25 157.48)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "b233b318-0f46-4f5d-a7ab-a83aed34aff0")
+	)
+	(wire
+		(pts
 			(xy 38.1 69.85) (xy 49.53 69.85)
 		)
 		(stroke
@@ -4958,6 +5062,16 @@
 			(type default)
 		)
 		(uuid "bdcf6991-19e1-466b-9066-ce59e87c9a4e")
+	)
+	(wire
+		(pts
+			(xy 224.79 146.05) (xy 222.25 146.05)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "bfbe6078-c8ae-4814-b149-351cbc9d4daf")
 	)
 	(wire
 		(pts
@@ -5138,16 +5252,6 @@
 			(type default)
 		)
 		(uuid "cdc71d85-1e48-431a-888b-cf88227c1706")
-	)
-	(wire
-		(pts
-			(xy 193.04 132.08) (xy 196.85 132.08)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "cdca7671-b46f-4730-a163-75c5d25e64fd")
 	)
 	(wire
 		(pts
@@ -5481,6 +5585,16 @@
 	)
 	(wire
 		(pts
+			(xy 214.63 146.05) (xy 214.63 148.59)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "ee776c33-1cce-4d7d-918f-f04f61a9046b")
+	)
+	(wire
+		(pts
 			(xy 204.47 132.08) (xy 209.55 132.08)
 		)
 		(stroke
@@ -5619,6 +5733,16 @@
 		)
 		(uuid "00acb0a3-8f89-451f-8bb9-60406f23b83a")
 	)
+	(label "VCC_S"
+		(at 194.31 132.08 180)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right bottom)
+		)
+		(uuid "0192b7f9-799d-463f-b6e3-5dccfa4045e7")
+	)
 	(label "ISHARE"
 		(at 205.74 35.56 0)
 		(effects
@@ -5629,7 +5753,7 @@
 		)
 		(uuid "01d4d43f-3080-4d6a-8614-4a84e0abbbd9")
 	)
-	(label "VCC_M"
+	(label "VCC_S"
 		(at 246.38 110.49 90)
 		(effects
 			(font
@@ -5640,7 +5764,7 @@
 		(uuid "0d347c58-0980-4d54-8eb9-0b035a3ccb60")
 	)
 	(label "VCC_M"
-		(at 193.04 132.08 180)
+		(at 194.31 128.27 180)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -5668,6 +5792,16 @@
 			(justify left bottom)
 		)
 		(uuid "3f343c55-6077-454c-9220-ceac0b2e1f46")
+	)
+	(label "VCC_M"
+		(at 194.31 135.89 180)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right bottom)
+		)
+		(uuid "4c99ada2-db96-4a62-8cd8-dc7d32623a14")
 	)
 	(label "PG_M"
 		(at 209.55 128.27 0)
@@ -6000,7 +6134,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_1206_3216Metric"
+		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric"
 			(at 127.9652 38.1 0)
 			(hide yes)
 			(show_name no)
@@ -6171,7 +6305,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_1206_3216Metric"
+		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric"
 			(at 143.2052 113.03 0)
 			(hide yes)
 			(show_name no)
@@ -6258,7 +6392,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_1206_3216Metric"
+		(property "Footprint" "Capacitor_SMD:C_0805_2012Metric"
 			(at 138.1252 38.1 0)
 			(hide yes)
 			(show_name no)
@@ -6430,7 +6564,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_1206_3216Metric"
+		(property "Footprint" "Capacitor_SMD:C_0805_2012Metric"
 			(at 127.9652 162.56 0)
 			(hide yes)
 			(show_name no)
@@ -6570,94 +6704,6 @@
 		)
 	)
 	(symbol
-		(lib_id "Device:C_Polarized")
-		(at 147.32 158.75 0)
-		(mirror y)
-		(unit 1)
-		(body_style 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(in_pos_files yes)
-		(dnp no)
-		(uuid "0aa31601-f440-4256-9565-e48ca081f7fd")
-		(property "Reference" "C66"
-			(at 145.542 156.972 90)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Value" "100u"
-			(at 145.542 165.608 90)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Footprint" "Capacitor_Tantalum_SMD:CP_EIA-7343-20_Kemet-V"
-			(at 146.3548 162.56 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Datasheet" ""
-			(at 147.32 158.75 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Description" "Polarized capacitor"
-			(at 147.32 158.75 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(pin "1"
-			(uuid "fd2908af-e40c-4897-99a0-3443041bde0d")
-		)
-		(pin "2"
-			(uuid "fcaf2847-fd03-46de-a04b-1400066cc597")
-		)
-		(instances
-			(project "RFSOC"
-				(path "/4d311e49-5a18-4026-8529-84d72a55e78c/54738407-4694-4a98-bb07-d1ac5352cd26/c193adb7-656a-4243-a44b-328d1a0709dd"
-					(reference "C82")
-					(unit 1)
-				)
-			)
-			(project "KU5P_Core"
-				(path "/68d0ebd3-4770-4e42-a15d-94722405f64d/ca568b1d-a558-4336-b7e2-be12f8fb35d1/8d442208-9768-43f6-b78b-2c14d0c2e3c0"
-					(reference "C66")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
 		(lib_id "Device:C")
 		(at 137.16 71.12 0)
 		(unit 1)
@@ -6690,7 +6736,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_1206_3216Metric"
+		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric"
 			(at 138.1252 74.93 0)
 			(hide yes)
 			(show_name no)
@@ -6745,6 +6791,84 @@
 		)
 	)
 	(symbol
+		(lib_id "dfdtc_power:GND")
+		(at 224.79 148.59 0)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "0d068c19-7042-44df-aebb-b6501e2ae8ff")
+		(property "Reference" "#PWR066"
+			(at 224.79 154.94 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "GND"
+			(at 224.79 153.67 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 224.79 148.59 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 224.79 148.59 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
+			(at 224.79 148.59 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "1"
+			(uuid "1ea7bdc2-3023-4b63-a827-3dc30127f3a9")
+		)
+		(instances
+			(project "KU5P_Core"
+				(path "/68d0ebd3-4770-4e42-a15d-94722405f64d/ca568b1d-a558-4336-b7e2-be12f8fb35d1/8d442208-9768-43f6-b78b-2c14d0c2e3c0"
+					(reference "#PWR066")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "Device:C")
 		(at 127 109.22 0)
 		(unit 1)
@@ -6777,7 +6901,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_1206_3216Metric"
+		(property "Footprint" "Capacitor_SMD:C_0805_2012Metric"
 			(at 127.9652 113.03 0)
 			(hide yes)
 			(show_name no)
@@ -6864,7 +6988,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_1206_3216Metric"
+		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric"
 			(at 138.1252 113.03 0)
 			(hide yes)
 			(show_name no)
@@ -7035,7 +7159,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_1206_3216Metric"
+		(property "Footprint" "Capacitor_SMD:C_0805_2012Metric"
 			(at 133.0452 125.73 0)
 			(hide yes)
 			(show_name no)
@@ -7090,6 +7214,84 @@
 		)
 	)
 	(symbol
+		(lib_id "dfdtc_power:GND")
+		(at 209.55 160.02 0)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "1695115a-c876-465a-ae1a-7be1437f9720")
+		(property "Reference" "#PWR055"
+			(at 209.55 166.37 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "GND"
+			(at 209.55 165.1 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 209.55 160.02 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 209.55 160.02 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
+			(at 209.55 160.02 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "1"
+			(uuid "7dd118cb-e17a-45b0-816c-5840e3873496")
+		)
+		(instances
+			(project "KU5P_Core"
+				(path "/68d0ebd3-4770-4e42-a15d-94722405f64d/ca568b1d-a558-4336-b7e2-be12f8fb35d1/8d442208-9768-43f6-b78b-2c14d0c2e3c0"
+					(reference "#PWR055")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "Device:C")
 		(at 127 146.05 0)
 		(unit 1)
@@ -7122,7 +7324,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_1206_3216Metric"
+		(property "Footprint" "Capacitor_SMD:C_0805_2012Metric"
 			(at 127.9652 149.86 0)
 			(hide yes)
 			(show_name no)
@@ -7210,7 +7412,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "NetTie:NetTie-2_SMD_Pad0.5mm"
 			(at 204.47 146.05 0)
 			(hide yes)
 			(show_name no)
@@ -7298,7 +7500,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "NetTie:NetTie-2_SMD_Pad0.5mm"
 			(at 204.47 116.84 0)
 			(hide yes)
 			(show_name no)
@@ -7385,7 +7587,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_1206_3216Metric"
+		(property "Footprint" "Capacitor_SMD:C_0805_2012Metric"
 			(at 133.0452 113.03 0)
 			(hide yes)
 			(show_name no)
@@ -7472,7 +7674,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_1206_3216Metric"
+		(property "Footprint" "Capacitor_SMD:C_0805_2012Metric"
 			(at 138.1252 149.86 0)
 			(hide yes)
 			(show_name no)
@@ -7696,6 +7898,88 @@
 		)
 	)
 	(symbol
+		(lib_id "Device:NetTie_2")
+		(at 219.71 157.48 0)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom no)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "2362ec62-759e-4b57-af7e-0ce4783e784a")
+		(property "Reference" "NT14"
+			(at 219.71 152.4 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "NetTie_2"
+			(at 219.71 154.94 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "NetTie:NetTie-2_SMD_Pad0.5mm"
+			(at 219.71 157.48 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 219.71 157.48 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "Net tie, 2 pins"
+			(at 219.71 157.48 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "1"
+			(uuid "74b14d3e-7a55-4121-92e7-3d5e4685c6bd")
+		)
+		(pin "2"
+			(uuid "20393725-cbe4-45a8-965a-04d1d844b57a")
+		)
+		(instances
+			(project "KU5P_Core"
+				(path "/68d0ebd3-4770-4e42-a15d-94722405f64d/ca568b1d-a558-4336-b7e2-be12f8fb35d1/8d442208-9768-43f6-b78b-2c14d0c2e3c0"
+					(reference "NT14")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "Device:R")
 		(at 266.7 86.36 90)
 		(unit 1)
@@ -7775,6 +8059,84 @@
 			(project "KU5P_Core"
 				(path "/68d0ebd3-4770-4e42-a15d-94722405f64d/ca568b1d-a558-4336-b7e2-be12f8fb35d1/8d442208-9768-43f6-b78b-2c14d0c2e3c0"
 					(reference "R10")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "dfdtc_power:GNDA")
+		(at 214.63 160.02 0)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "286396f5-cd9d-499e-8b33-f65875e9853c")
+		(property "Reference" "#PWR058"
+			(at 214.63 166.37 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "GNDA"
+			(at 214.63 165.1 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 214.63 160.02 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 214.63 160.02 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"GNDA\" , analog ground"
+			(at 214.63 160.02 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "1"
+			(uuid "eef2a7ca-1ff8-466d-9aaa-4f426e87d25d")
+		)
+		(instances
+			(project "KU5P_Core"
+				(path "/68d0ebd3-4770-4e42-a15d-94722405f64d/ca568b1d-a558-4336-b7e2-be12f8fb35d1/8d442208-9768-43f6-b78b-2c14d0c2e3c0"
+					(reference "#PWR058")
 					(unit 1)
 				)
 			)
@@ -7901,7 +8263,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_1206_3216Metric"
+		(property "Footprint" "Capacitor_SMD:C_0805_2012Metric"
 			(at 148.2852 38.1 0)
 			(hide yes)
 			(show_name no)
@@ -7988,7 +8350,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_1206_3216Metric"
+		(property "Footprint" "Capacitor_SMD:C_0805_2012Metric"
 			(at 122.8852 149.86 0)
 			(hide yes)
 			(show_name no)
@@ -8043,6 +8405,84 @@
 		)
 	)
 	(symbol
+		(lib_id "dfdtc_power:GND")
+		(at 224.79 160.02 0)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "2e175b36-cf82-42bd-b9d3-d1487b0ed241")
+		(property "Reference" "#PWR067"
+			(at 224.79 166.37 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "GND"
+			(at 224.79 165.1 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 224.79 160.02 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 224.79 160.02 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
+			(at 224.79 160.02 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "1"
+			(uuid "782ee8fd-0133-4d94-bd47-7d20c908f7f7")
+		)
+		(instances
+			(project "KU5P_Core"
+				(path "/68d0ebd3-4770-4e42-a15d-94722405f64d/ca568b1d-a558-4336-b7e2-be12f8fb35d1/8d442208-9768-43f6-b78b-2c14d0c2e3c0"
+					(reference "#PWR067")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "Device:C")
 		(at 127 83.82 0)
 		(unit 1)
@@ -8075,7 +8515,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_1206_3216Metric"
+		(property "Footprint" "Capacitor_SMD:C_0805_2012Metric"
 			(at 127.9652 87.63 0)
 			(hide yes)
 			(show_name no)
@@ -8509,7 +8949,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_1206_3216Metric"
+		(property "Footprint" "Capacitor_SMD:C_0805_2012Metric"
 			(at 138.1252 50.8 0)
 			(hide yes)
 			(show_name no)
@@ -8596,7 +9036,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_1206_3216Metric"
+		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric"
 			(at 122.8852 113.03 0)
 			(hide yes)
 			(show_name no)
@@ -8942,7 +9382,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_1206_3216Metric"
+		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric"
 			(at 122.8852 74.93 0)
 			(hide yes)
 			(show_name no)
@@ -9029,7 +9469,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_1206_3216Metric"
+		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric"
 			(at 148.2852 74.93 0)
 			(hide yes)
 			(show_name no)
@@ -9200,7 +9640,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_1206_3216Metric"
+		(property "Footprint" "Capacitor_SMD:C_0805_2012Metric"
 			(at 133.0452 162.56 0)
 			(hide yes)
 			(show_name no)
@@ -9627,7 +10067,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_1206_3216Metric"
+		(property "Footprint" "Capacitor_SMD:C_0805_2012Metric"
 			(at 133.0452 87.63 0)
 			(hide yes)
 			(show_name no)
@@ -9682,6 +10122,84 @@
 		)
 	)
 	(symbol
+		(lib_id "dfdtc_power:GNDA")
+		(at 199.39 160.02 0)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "5cf00314-2725-48c3-ad72-a433a9d27c20")
+		(property "Reference" "#PWR052"
+			(at 199.39 166.37 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "GNDA"
+			(at 199.39 165.1 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 199.39 160.02 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 199.39 160.02 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"GNDA\" , analog ground"
+			(at 199.39 160.02 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "1"
+			(uuid "d371aa4d-256b-438f-8261-5462fcd92898")
+		)
+		(instances
+			(project "KU5P_Core"
+				(path "/68d0ebd3-4770-4e42-a15d-94722405f64d/ca568b1d-a558-4336-b7e2-be12f8fb35d1/8d442208-9768-43f6-b78b-2c14d0c2e3c0"
+					(reference "#PWR052")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "Device:C")
 		(at 121.92 46.99 0)
 		(unit 1)
@@ -9714,7 +10232,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_1206_3216Metric"
+		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric"
 			(at 122.8852 50.8 0)
 			(hide yes)
 			(show_name no)
@@ -10501,7 +11019,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_1206_3216Metric"
+		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric"
 			(at 143.2052 125.73 0)
 			(hide yes)
 			(show_name no)
@@ -10640,94 +11158,6 @@
 		)
 	)
 	(symbol
-		(lib_id "Device:C_Polarized")
-		(at 147.32 83.82 0)
-		(mirror y)
-		(unit 1)
-		(body_style 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(in_pos_files yes)
-		(dnp no)
-		(uuid "72b2c1d4-7b75-4ea1-82a9-59900700c1b8")
-		(property "Reference" "C62"
-			(at 145.542 82.042 90)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Value" "100u"
-			(at 145.542 90.678 90)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Footprint" "Capacitor_Tantalum_SMD:CP_EIA-7343-20_Kemet-V"
-			(at 146.3548 87.63 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Datasheet" ""
-			(at 147.32 83.82 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Description" "Polarized capacitor"
-			(at 147.32 83.82 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(pin "1"
-			(uuid "1c4fb8fe-cf2c-4a0b-9ab9-1e098bc0cef3")
-		)
-		(pin "2"
-			(uuid "43b35406-cc93-42bd-9e0b-cc33dfc9dbb4")
-		)
-		(instances
-			(project "RFSOC"
-				(path "/4d311e49-5a18-4026-8529-84d72a55e78c/54738407-4694-4a98-bb07-d1ac5352cd26/c193adb7-656a-4243-a44b-328d1a0709dd"
-					(reference "C51")
-					(unit 1)
-				)
-			)
-			(project "KU5P_Core"
-				(path "/68d0ebd3-4770-4e42-a15d-94722405f64d/ca568b1d-a558-4336-b7e2-be12f8fb35d1/8d442208-9768-43f6-b78b-2c14d0c2e3c0"
-					(reference "C62")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
 		(lib_id "Device:C")
 		(at 115.57 146.05 0)
 		(unit 1)
@@ -10847,7 +11277,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_1206_3216Metric"
+		(property "Footprint" "Capacitor_SMD:C_0805_2012Metric"
 			(at 143.2052 50.8 0)
 			(hide yes)
 			(show_name no)
@@ -11207,7 +11637,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_1206_3216Metric"
+		(property "Footprint" "Capacitor_SMD:C_0805_2012Metric"
 			(at 143.2052 38.1 0)
 			(hide yes)
 			(show_name no)
@@ -11294,7 +11724,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_1206_3216Metric"
+		(property "Footprint" "Capacitor_SMD:C_0805_2012Metric"
 			(at 127.9652 74.93 0)
 			(hide yes)
 			(show_name no)
@@ -11717,7 +12147,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_1206_3216Metric"
+		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric"
 			(at 133.0452 74.93 0)
 			(hide yes)
 			(show_name no)
@@ -11794,7 +12224,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "100u"
+		(property "Value" "470u"
 			(at 145.542 53.848 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -11892,7 +12322,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_1206_3216Metric"
+		(property "Footprint" "Capacitor_SMD:C_0805_2012Metric"
 			(at 148.2852 113.03 0)
 			(hide yes)
 			(show_name no)
@@ -12025,6 +12455,88 @@
 			(project "KU5P_Core"
 				(path "/68d0ebd3-4770-4e42-a15d-94722405f64d/ca568b1d-a558-4336-b7e2-be12f8fb35d1/8d442208-9768-43f6-b78b-2c14d0c2e3c0"
 					(reference "#PWR4")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Device:NetTie_2")
+		(at 204.47 157.48 0)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom no)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "91c1760f-6b30-4f81-b1e1-b79a5c9d5453")
+		(property "Reference" "NT12"
+			(at 204.47 152.4 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "NetTie_2"
+			(at 204.47 154.94 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "NetTie:NetTie-2_SMD_Pad0.5mm"
+			(at 204.47 157.48 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 204.47 157.48 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "Net tie, 2 pins"
+			(at 204.47 157.48 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "1"
+			(uuid "cf2d7095-04be-4fdf-9c86-e54839fb1689")
+		)
+		(pin "2"
+			(uuid "d12052e8-53c1-475c-a985-ee630cd2a806")
+		)
+		(instances
+			(project "KU5P_Core"
+				(path "/68d0ebd3-4770-4e42-a15d-94722405f64d/ca568b1d-a558-4336-b7e2-be12f8fb35d1/8d442208-9768-43f6-b78b-2c14d0c2e3c0"
+					(reference "NT12")
 					(unit 1)
 				)
 			)
@@ -12235,7 +12747,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_1206_3216Metric"
+		(property "Footprint" "Capacitor_SMD:C_0805_2012Metric"
 			(at 122.8852 162.56 0)
 			(hide yes)
 			(show_name no)
@@ -12284,6 +12796,88 @@
 			(project "KU5P_Core"
 				(path "/68d0ebd3-4770-4e42-a15d-94722405f64d/ca568b1d-a558-4336-b7e2-be12f8fb35d1/8d442208-9768-43f6-b78b-2c14d0c2e3c0"
 					(reference "C26")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Device:NetTie_2")
+		(at 219.71 146.05 0)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom no)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "98640633-5c95-4069-b16d-a075d81b1937")
+		(property "Reference" "NT13"
+			(at 219.71 140.97 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "NetTie_2"
+			(at 219.71 143.51 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "NetTie:NetTie-2_SMD_Pad0.5mm"
+			(at 219.71 146.05 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 219.71 146.05 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "Net tie, 2 pins"
+			(at 219.71 146.05 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "1"
+			(uuid "0acf5fa2-ad96-435d-a4ae-36e3b0290d42")
+		)
+		(pin "2"
+			(uuid "7ab35dce-919d-4ee8-bc7a-097635471e85")
+		)
+		(instances
+			(project "KU5P_Core"
+				(path "/68d0ebd3-4770-4e42-a15d-94722405f64d/ca568b1d-a558-4336-b7e2-be12f8fb35d1/8d442208-9768-43f6-b78b-2c14d0c2e3c0"
+					(reference "NT13")
 					(unit 1)
 				)
 			)
@@ -12409,7 +13003,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_1206_3216Metric"
+		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric"
 			(at 143.2052 162.56 0)
 			(hide yes)
 			(show_name no)
@@ -13088,7 +13682,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_1206_3216Metric"
+		(property "Footprint" "Capacitor_SMD:C_0805_2012Metric"
 			(at 138.1252 162.56 0)
 			(hide yes)
 			(show_name no)
@@ -13512,7 +14106,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_1206_3216Metric"
+		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric"
 			(at 133.0452 50.8 0)
 			(hide yes)
 			(show_name no)
@@ -13686,7 +14280,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_1206_3216Metric"
+		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric"
 			(at 127.9652 50.8 0)
 			(hide yes)
 			(show_name no)
@@ -13735,94 +14329,6 @@
 			(project "KU5P_Core"
 				(path "/68d0ebd3-4770-4e42-a15d-94722405f64d/ca568b1d-a558-4336-b7e2-be12f8fb35d1/8d442208-9768-43f6-b78b-2c14d0c2e3c0"
 					(reference "C28")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Device:C_Polarized")
-		(at 147.32 121.92 0)
-		(mirror y)
-		(unit 1)
-		(body_style 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(in_pos_files yes)
-		(dnp no)
-		(uuid "be7963e1-0acc-4be6-b8ce-97b7c8db2907")
-		(property "Reference" "C64"
-			(at 145.542 120.142 90)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Value" "100u"
-			(at 145.542 128.778 90)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Footprint" "Capacitor_Tantalum_SMD:CP_EIA-7343-20_Kemet-V"
-			(at 146.3548 125.73 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Datasheet" ""
-			(at 147.32 121.92 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Description" "Polarized capacitor"
-			(at 147.32 121.92 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(pin "1"
-			(uuid "136d1d73-bbc8-4dcf-a6fd-bb31c458d4c4")
-		)
-		(pin "2"
-			(uuid "c492835b-8199-4a1e-99bf-87de66ac7e8e")
-		)
-		(instances
-			(project "RFSOC"
-				(path "/4d311e49-5a18-4026-8529-84d72a55e78c/54738407-4694-4a98-bb07-d1ac5352cd26/c193adb7-656a-4243-a44b-328d1a0709dd"
-					(reference "C68")
-					(unit 1)
-				)
-			)
-			(project "KU5P_Core"
-				(path "/68d0ebd3-4770-4e42-a15d-94722405f64d/ca568b1d-a558-4336-b7e2-be12f8fb35d1/8d442208-9768-43f6-b78b-2c14d0c2e3c0"
-					(reference "C64")
 					(unit 1)
 				)
 			)
@@ -14036,7 +14542,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_1206_3216Metric"
+		(property "Footprint" "Capacitor_SMD:C_0805_2012Metric"
 			(at 148.2852 149.86 0)
 			(hide yes)
 			(show_name no)
@@ -14464,7 +14970,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_1206_3216Metric"
+		(property "Footprint" "Capacitor_SMD:C_0805_2012Metric"
 			(at 122.8852 125.73 0)
 			(hide yes)
 			(show_name no)
@@ -15068,7 +15574,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_1206_3216Metric"
+		(property "Footprint" "Capacitor_SMD:C_0805_2012Metric"
 			(at 138.1252 87.63 0)
 			(hide yes)
 			(show_name no)
@@ -15155,7 +15661,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_1206_3216Metric"
+		(property "Footprint" "Capacitor_SMD:C_0805_2012Metric"
 			(at 143.2052 87.63 0)
 			(hide yes)
 			(show_name no)
@@ -15297,6 +15803,84 @@
 		)
 	)
 	(symbol
+		(lib_id "dfdtc_power:GNDA")
+		(at 214.63 148.59 0)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "e3c4b603-62a7-409e-b5b4-410843c2a3c5")
+		(property "Reference" "#PWR057"
+			(at 214.63 154.94 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "GNDA"
+			(at 214.63 153.67 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 214.63 148.59 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 214.63 148.59 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"GNDA\" , analog ground"
+			(at 214.63 148.59 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "1"
+			(uuid "798534fa-558d-4b61-a08b-0562a2e778f2")
+		)
+		(instances
+			(project "KU5P_Core"
+				(path "/68d0ebd3-4770-4e42-a15d-94722405f64d/ca568b1d-a558-4336-b7e2-be12f8fb35d1/8d442208-9768-43f6-b78b-2c14d0c2e3c0"
+					(reference "#PWR057")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "Device:C")
 		(at 115.57 121.92 0)
 		(unit 1)
@@ -15416,7 +16000,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_1206_3216Metric"
+		(property "Footprint" "Capacitor_SMD:C_0805_2012Metric"
 			(at 133.0452 149.86 0)
 			(hide yes)
 			(show_name no)
@@ -15503,7 +16087,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_1206_3216Metric"
+		(property "Footprint" "Capacitor_SMD:C_0805_2012Metric"
 			(at 133.0452 38.1 0)
 			(hide yes)
 			(show_name no)
@@ -15677,7 +16261,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_1206_3216Metric"
+		(property "Footprint" "Capacitor_SMD:C_0805_2012Metric"
 			(at 143.2052 74.93 0)
 			(hide yes)
 			(show_name no)
@@ -15934,7 +16518,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_1206_3216Metric"
+		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric"
 			(at 122.8852 38.1 0)
 			(hide yes)
 			(show_name no)
@@ -16106,7 +16690,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_1206_3216Metric"
+		(property "Footprint" "Capacitor_SMD:C_0805_2012Metric"
 			(at 122.8852 87.63 0)
 			(hide yes)
 			(show_name no)
@@ -16361,7 +16945,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_1206_3216Metric"
+		(property "Footprint" "Capacitor_SMD:C_0805_2012Metric"
 			(at 143.2052 149.86 0)
 			(hide yes)
 			(show_name no)
@@ -17080,7 +17664,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_1206_3216Metric"
+		(property "Footprint" "Capacitor_SMD:C_0805_2012Metric"
 			(at 138.1252 125.73 0)
 			(hide yes)
 			(show_name no)
@@ -17251,7 +17835,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_1206_3216Metric"
+		(property "Footprint" "Capacitor_SMD:C_0805_2012Metric"
 			(at 127.9652 125.73 0)
 			(hide yes)
 			(show_name no)
