@@ -6523,7 +6523,7 @@
 		)
 		(uuid "ff295011-275f-4388-a8f5-110acd23c5cd")
 	)
-	(global_label "IO_L18P_T2U_N10_AD2P_67_P"
+	(global_label "IO_L18_67_P"
 		(shape bidirectional)
 		(at 152.4 111.76 180)
 		(effects
@@ -6545,7 +6545,7 @@
 			)
 		)
 	)
-	(global_label "IO_L11P_T1U_N8_GC_67_P"
+	(global_label "IO_L11_GC_67_P"
 		(shape bidirectional)
 		(at 170.18 144.78 0)
 		(effects
@@ -6567,7 +6567,7 @@
 			)
 		)
 	)
-	(global_label "IO_L7P_T1L_N0_QBC_AD13P_66_P"
+	(global_label "IO_L7_QBC_66_P"
 		(shape bidirectional)
 		(at 72.39 119.38 0)
 		(effects
@@ -6589,7 +6589,7 @@
 			)
 		)
 	)
-	(global_label "IO_L17P_T2U_N8_AD10P_67_P"
+	(global_label "IO_L17_67_P"
 		(shape bidirectional)
 		(at 152.4 106.68 180)
 		(effects
@@ -6611,7 +6611,7 @@
 			)
 		)
 	)
-	(global_label "IO_L23N_T3U_N9_67_N"
+	(global_label "IO_L23_67_N"
 		(shape bidirectional)
 		(at 152.4 147.32 180)
 		(effects
@@ -6633,7 +6633,7 @@
 			)
 		)
 	)
-	(global_label "IO_L19N_T3L_N1_DBC_AD9N_67_N"
+	(global_label "IO_L19_DBC_67_N"
 		(shape bidirectional)
 		(at 152.4 121.92 180)
 		(effects
@@ -6655,7 +6655,7 @@
 			)
 		)
 	)
-	(global_label "IO_L5N_T0U_N9_AD14N_67_N"
+	(global_label "IO_L5_67_N"
 		(shape bidirectional)
 		(at 170.18 109.22 0)
 		(effects
@@ -6677,7 +6677,7 @@
 			)
 		)
 	)
-	(global_label "IO_L9P_T1L_N4_AD12P_66_P"
+	(global_label "IO_L9_66_P"
 		(shape bidirectional)
 		(at 72.39 132.08 0)
 		(effects
@@ -6699,7 +6699,7 @@
 			)
 		)
 	)
-	(global_label "IO_L2P_T0L_N2_66_P"
+	(global_label "IO_L2_66_P"
 		(shape bidirectional)
 		(at 72.39 86.36 0)
 		(effects
@@ -6721,7 +6721,7 @@
 			)
 		)
 	)
-	(global_label "IO_L20N_T3L_N3_AD1N_67_N"
+	(global_label "IO_L20_67_N"
 		(shape bidirectional)
 		(at 152.4 127 180)
 		(effects
@@ -6743,7 +6743,7 @@
 			)
 		)
 	)
-	(global_label "IO_L3P_T0L_N4_AD15P_66_P"
+	(global_label "IO_L3_66_P"
 		(shape bidirectional)
 		(at 72.39 93.98 0)
 		(effects
@@ -6788,7 +6788,7 @@
 			)
 		)
 	)
-	(global_label "IO_L20P_T3L_N2_AD1P_66_P"
+	(global_label "IO_L20_66_P"
 		(shape bidirectional)
 		(at 54.61 124.46 180)
 		(effects
@@ -6810,7 +6810,7 @@
 			)
 		)
 	)
-	(global_label "IO_L24N_T3U_N11_67_N"
+	(global_label "IO_L24_67_N"
 		(shape bidirectional)
 		(at 152.4 152.4 180)
 		(effects
@@ -6832,7 +6832,7 @@
 			)
 		)
 	)
-	(global_label "IO_L1N_T0L_N1_DBC_66_N"
+	(global_label "IO_L1_DBC_66_N"
 		(shape bidirectional)
 		(at 72.39 83.82 0)
 		(effects
@@ -6854,7 +6854,7 @@
 			)
 		)
 	)
-	(global_label "IO_L23N_T3U_N9_66_N"
+	(global_label "IO_L23_66_N"
 		(shape bidirectional)
 		(at 54.61 147.32 180)
 		(effects
@@ -6876,7 +6876,7 @@
 			)
 		)
 	)
-	(global_label "IO_L1P_T0L_N0_DBC_67_P"
+	(global_label "IO_L1_DBC_67_P"
 		(shape bidirectional)
 		(at 170.18 81.28 0)
 		(effects
@@ -6898,7 +6898,7 @@
 			)
 		)
 	)
-	(global_label "IO_L24N_T3U_N11_66_N"
+	(global_label "IO_L24_66_N"
 		(shape bidirectional)
 		(at 54.61 152.4 180)
 		(effects
@@ -6920,7 +6920,7 @@
 			)
 		)
 	)
-	(global_label "IO_L12N_T1U_N11_GC_67_N"
+	(global_label "IO_L12_GC_67_N"
 		(shape bidirectional)
 		(at 170.18 152.4 0)
 		(effects
@@ -6942,7 +6942,7 @@
 			)
 		)
 	)
-	(global_label "IO_L16P_T2U_N6_QBC_AD3P_67_P"
+	(global_label "IO_L16_QBC_67_P"
 		(shape bidirectional)
 		(at 152.4 99.06 180)
 		(effects
@@ -6964,7 +6964,7 @@
 			)
 		)
 	)
-	(global_label "IO_L24P_T3U_N10_66_P"
+	(global_label "IO_L24_66_P"
 		(shape bidirectional)
 		(at 54.61 149.86 180)
 		(effects
@@ -6986,7 +6986,7 @@
 			)
 		)
 	)
-	(global_label "IO_L22N_T3U_N7_DBC_AD0N_67_N"
+	(global_label "IO_L22_DBC_67_N"
 		(shape bidirectional)
 		(at 152.4 139.7 180)
 		(effects
@@ -7008,7 +7008,7 @@
 			)
 		)
 	)
-	(global_label "IO_L21P_T3L_N4_AD8P_66_P"
+	(global_label "IO_L21_66_P"
 		(shape bidirectional)
 		(at 54.61 132.08 180)
 		(effects
@@ -7030,7 +7030,7 @@
 			)
 		)
 	)
-	(global_label "IO_L5P_T0U_N8_AD14P_66_P"
+	(global_label "IO_L5_66_P"
 		(shape bidirectional)
 		(at 72.39 106.68 0)
 		(effects
@@ -7052,7 +7052,7 @@
 			)
 		)
 	)
-	(global_label "IO_L4P_T0U_N6_DBC_AD7P_66_P"
+	(global_label "IO_L4_DBC_66_P"
 		(shape bidirectional)
 		(at 72.39 99.06 0)
 		(effects
@@ -7074,7 +7074,7 @@
 			)
 		)
 	)
-	(global_label "IO_L10P_T1U_N6_QBC_AD4P_66_P"
+	(global_label "IO_L10_QBC_66_P"
 		(shape bidirectional)
 		(at 72.39 137.16 0)
 		(effects
@@ -7096,7 +7096,7 @@
 			)
 		)
 	)
-	(global_label "IO_L4P_T0U_N6_DBC_AD7P_67_P"
+	(global_label "IO_L4_DBC_67_P"
 		(shape bidirectional)
 		(at 170.18 99.06 0)
 		(effects
@@ -7141,7 +7141,7 @@
 			)
 		)
 	)
-	(global_label "IO_L22P_T3U_N6_DBC_AD0P_67_P"
+	(global_label "IO_L22_DBC_67_P"
 		(shape bidirectional)
 		(at 152.4 137.16 180)
 		(effects
@@ -7163,7 +7163,7 @@
 			)
 		)
 	)
-	(global_label "IO_L1P_T0L_N0_DBC_66_P"
+	(global_label "IO_L1_DBC_66_P"
 		(shape bidirectional)
 		(at 72.39 81.28 0)
 		(effects
@@ -7185,7 +7185,7 @@
 			)
 		)
 	)
-	(global_label "IO_L12P_T1U_N10_GC_66_P"
+	(global_label "IO_L12_GC_66_P"
 		(shape bidirectional)
 		(at 72.39 149.86 0)
 		(effects
@@ -7207,7 +7207,7 @@
 			)
 		)
 	)
-	(global_label "IO_L7N_T1L_N1_QBC_AD13N_67_N"
+	(global_label "IO_L7_QBC_67_N"
 		(shape bidirectional)
 		(at 170.18 121.92 0)
 		(effects
@@ -7229,7 +7229,7 @@
 			)
 		)
 	)
-	(global_label "IO_L11N_T1U_N9_GC_66_N"
+	(global_label "IO_L11_GC_66_N"
 		(shape bidirectional)
 		(at 72.39 147.32 0)
 		(effects
@@ -7251,7 +7251,7 @@
 			)
 		)
 	)
-	(global_label "IO_L5P_T0U_N8_AD14P_67_P"
+	(global_label "IO_L5_67_P"
 		(shape bidirectional)
 		(at 170.18 106.68 0)
 		(effects
@@ -7273,7 +7273,7 @@
 			)
 		)
 	)
-	(global_label "IO_L16N_T2U_N7_QBC_AD3N_66_N"
+	(global_label "IO_L16_QBC_66_N"
 		(shape bidirectional)
 		(at 54.61 101.6 180)
 		(effects
@@ -7295,7 +7295,7 @@
 			)
 		)
 	)
-	(global_label "IO_L22N_T3U_N7_DBC_AD0N_66_N"
+	(global_label "IO_L22_DBC_66_N"
 		(shape bidirectional)
 		(at 54.61 139.7 180)
 		(effects
@@ -7317,7 +7317,7 @@
 			)
 		)
 	)
-	(global_label "IO_L10P_T1U_N6_QBC_AD4P_67_P"
+	(global_label "IO_L10_QBC_67_P"
 		(shape bidirectional)
 		(at 170.18 137.16 0)
 		(effects
@@ -7339,7 +7339,7 @@
 			)
 		)
 	)
-	(global_label "IO_L11P_T1U_N8_GC_66_P"
+	(global_label "IO_L11_GC_66_P"
 		(shape bidirectional)
 		(at 72.39 144.78 0)
 		(effects
@@ -7361,7 +7361,7 @@
 			)
 		)
 	)
-	(global_label "IO_L10N_T1U_N7_QBC_AD4N_66_N"
+	(global_label "IO_L10_QBC_66_N"
 		(shape bidirectional)
 		(at 72.39 139.7 0)
 		(effects
@@ -7383,7 +7383,7 @@
 			)
 		)
 	)
-	(global_label "IO_L3N_T0L_N5_AD15N_66_N"
+	(global_label "IO_L3_66_N"
 		(shape bidirectional)
 		(at 72.39 96.52 0)
 		(effects
@@ -7405,7 +7405,7 @@
 			)
 		)
 	)
-	(global_label "IO_L10N_T1U_N7_QBC_AD4N_67_N"
+	(global_label "IO_L10_QBC_67_N"
 		(shape bidirectional)
 		(at 170.18 139.7 0)
 		(effects
@@ -7427,7 +7427,7 @@
 			)
 		)
 	)
-	(global_label "IO_L13N_T2L_N1_GC_QBC_66_N"
+	(global_label "IO_L13_GC_QBC_66_N"
 		(shape bidirectional)
 		(at 54.61 83.82 180)
 		(effects
@@ -7449,7 +7449,7 @@
 			)
 		)
 	)
-	(global_label "IO_L8P_T1L_N2_AD5P_66_P"
+	(global_label "IO_L8_66_P"
 		(shape bidirectional)
 		(at 72.39 124.46 0)
 		(effects
@@ -7471,7 +7471,7 @@
 			)
 		)
 	)
-	(global_label "IO_L16N_T2U_N7_QBC_AD3N_67_N"
+	(global_label "IO_L16_QBC_67_N"
 		(shape bidirectional)
 		(at 152.4 101.6 180)
 		(effects
@@ -7493,7 +7493,7 @@
 			)
 		)
 	)
-	(global_label "IO_L21P_T3L_N4_AD8P_67_P"
+	(global_label "IO_L21_67_P"
 		(shape bidirectional)
 		(at 152.4 132.08 180)
 		(effects
@@ -7515,7 +7515,7 @@
 			)
 		)
 	)
-	(global_label "IO_L6N_T0U_N11_AD6N_67_N"
+	(global_label "IO_L6_67_N"
 		(shape bidirectional)
 		(at 170.18 114.3 0)
 		(effects
@@ -7537,7 +7537,7 @@
 			)
 		)
 	)
-	(global_label "IO_L5N_T0U_N9_AD14N_66_N"
+	(global_label "IO_L5_66_N"
 		(shape bidirectional)
 		(at 72.39 109.22 0)
 		(effects
@@ -7559,7 +7559,7 @@
 			)
 		)
 	)
-	(global_label "IO_L17N_T2U_N9_AD10N_67_N"
+	(global_label "IO_L17_67_N"
 		(shape bidirectional)
 		(at 152.4 109.22 180)
 		(effects
@@ -7581,7 +7581,7 @@
 			)
 		)
 	)
-	(global_label "IO_L14N_T2L_N3_GC_66_N"
+	(global_label "IO_L14_GC_66_N"
 		(shape bidirectional)
 		(at 54.61 88.9 180)
 		(effects
@@ -7626,7 +7626,7 @@
 			)
 		)
 	)
-	(global_label "IO_L3N_T0L_N5_AD15N_67_N"
+	(global_label "IO_L3_67_N"
 		(shape bidirectional)
 		(at 170.18 96.52 0)
 		(effects
@@ -7648,7 +7648,7 @@
 			)
 		)
 	)
-	(global_label "IO_L15N_T2L_N5_AD11N_67_N"
+	(global_label "IO_L15_67_N"
 		(shape bidirectional)
 		(at 152.4 96.52 180)
 		(effects
@@ -7670,7 +7670,7 @@
 			)
 		)
 	)
-	(global_label "IO_L15N_T2L_N5_AD11N_66_N"
+	(global_label "IO_L15_66_N"
 		(shape bidirectional)
 		(at 54.61 96.52 180)
 		(effects
@@ -7692,7 +7692,7 @@
 			)
 		)
 	)
-	(global_label "IO_L19P_T3L_N0_DBC_AD9P_67_P"
+	(global_label "IO_L19_DBC_67_P"
 		(shape bidirectional)
 		(at 152.4 119.38 180)
 		(effects
@@ -7714,7 +7714,7 @@
 			)
 		)
 	)
-	(global_label "IO_L14N_T2L_N3_GC_67_N"
+	(global_label "IO_L14_GC_67_N"
 		(shape bidirectional)
 		(at 152.4 88.9 180)
 		(effects
@@ -7736,7 +7736,7 @@
 			)
 		)
 	)
-	(global_label "IO_L17N_T2U_N9_AD10N_66_N"
+	(global_label "IO_L17_66_N"
 		(shape bidirectional)
 		(at 54.61 109.22 180)
 		(effects
@@ -7758,7 +7758,7 @@
 			)
 		)
 	)
-	(global_label "IO_L2N_T0L_N3_67_N"
+	(global_label "IO_L2_67_N"
 		(shape bidirectional)
 		(at 170.18 88.9 0)
 		(effects
@@ -7780,7 +7780,7 @@
 			)
 		)
 	)
-	(global_label "IO_L21N_T3L_N5_AD8N_67_N"
+	(global_label "IO_L21_67_N"
 		(shape bidirectional)
 		(at 152.4 134.62 180)
 		(effects
@@ -7802,7 +7802,7 @@
 			)
 		)
 	)
-	(global_label "IO_L20N_T3L_N3_AD1N_66_N"
+	(global_label "IO_L20_66_N"
 		(shape bidirectional)
 		(at 54.61 127 180)
 		(effects
@@ -7824,7 +7824,7 @@
 			)
 		)
 	)
-	(global_label "IO_L14P_T2L_N2_GC_67_P"
+	(global_label "IO_L14_GC_67_P"
 		(shape bidirectional)
 		(at 152.4 86.36 180)
 		(effects
@@ -7846,7 +7846,7 @@
 			)
 		)
 	)
-	(global_label "IO_L4N_T0U_N7_DBC_AD7N_66_N"
+	(global_label "IO_L4_DBC_66_N"
 		(shape bidirectional)
 		(at 72.39 101.6 0)
 		(effects
@@ -7868,7 +7868,7 @@
 			)
 		)
 	)
-	(global_label "IO_L7N_T1L_N1_QBC_AD13N_66_N"
+	(global_label "IO_L7_QBC_66_N"
 		(shape bidirectional)
 		(at 72.39 121.92 0)
 		(effects
@@ -7890,7 +7890,7 @@
 			)
 		)
 	)
-	(global_label "IO_L23P_T3U_N8_67_P"
+	(global_label "IO_L23_67_P"
 		(shape bidirectional)
 		(at 152.4 144.78 180)
 		(effects
@@ -7934,7 +7934,7 @@
 			)
 		)
 	)
-	(global_label "IO_L1N_T0L_N1_DBC_67_N"
+	(global_label "IO_L1_DBC_67_N"
 		(shape bidirectional)
 		(at 170.18 83.82 0)
 		(effects
@@ -8001,7 +8001,7 @@
 			)
 		)
 	)
-	(global_label "IO_L18P_T2U_N10_AD2P_66_P"
+	(global_label "IO_L18_66_P"
 		(shape bidirectional)
 		(at 54.61 111.76 180)
 		(effects
@@ -8023,7 +8023,7 @@
 			)
 		)
 	)
-	(global_label "IO_L12N_T1U_N11_GC_66_N"
+	(global_label "IO_L12_GC_66_N"
 		(shape bidirectional)
 		(at 72.39 152.4 0)
 		(effects
@@ -8045,7 +8045,7 @@
 			)
 		)
 	)
-	(global_label "IO_L12P_T1U_N10_GC_67_P"
+	(global_label "IO_L12_GC_67_P"
 		(shape bidirectional)
 		(at 170.18 149.86 0)
 		(effects
@@ -8067,7 +8067,7 @@
 			)
 		)
 	)
-	(global_label "IO_L16P_T2U_N6_QBC_AD3P_66_P"
+	(global_label "IO_L16_QBC_66_P"
 		(shape bidirectional)
 		(at 54.61 99.06 180)
 		(effects
@@ -8089,7 +8089,7 @@
 			)
 		)
 	)
-	(global_label "IO_L23P_T3U_N8_66_P"
+	(global_label "IO_L23_66_P"
 		(shape bidirectional)
 		(at 54.61 144.78 180)
 		(effects
@@ -8111,7 +8111,7 @@
 			)
 		)
 	)
-	(global_label "IO_L6P_T0U_N10_AD6P_67_P"
+	(global_label "IO_L6_67_P"
 		(shape bidirectional)
 		(at 170.18 111.76 0)
 		(effects
@@ -8133,7 +8133,7 @@
 			)
 		)
 	)
-	(global_label "IO_L18N_T2U_N11_AD2N_66_N"
+	(global_label "IO_L18_66_N"
 		(shape bidirectional)
 		(at 54.61 114.3 180)
 		(effects
@@ -8155,7 +8155,7 @@
 			)
 		)
 	)
-	(global_label "IO_L19P_T3L_N0_DBC_AD9P_66_P"
+	(global_label "IO_L19_DBC_66_P"
 		(shape bidirectional)
 		(at 54.61 119.38 180)
 		(effects
@@ -8177,7 +8177,7 @@
 			)
 		)
 	)
-	(global_label "IO_L6P_T0U_N10_AD6P_66_P"
+	(global_label "IO_L6_66_P"
 		(shape bidirectional)
 		(at 72.39 111.76 0)
 		(effects
@@ -8199,7 +8199,7 @@
 			)
 		)
 	)
-	(global_label "IO_L8N_T1L_N3_AD5N_67_N"
+	(global_label "IO_L8_67_N"
 		(shape bidirectional)
 		(at 170.18 127 0)
 		(effects
@@ -8221,7 +8221,7 @@
 			)
 		)
 	)
-	(global_label "IO_L15P_T2L_N4_AD11P_67_P"
+	(global_label "IO_L15_67_P"
 		(shape bidirectional)
 		(at 152.4 93.98 180)
 		(effects
@@ -8243,7 +8243,7 @@
 			)
 		)
 	)
-	(global_label "IO_L20P_T3L_N2_AD1P_67_P"
+	(global_label "IO_L20_67_P"
 		(shape bidirectional)
 		(at 152.4 124.46 180)
 		(effects
@@ -8265,7 +8265,7 @@
 			)
 		)
 	)
-	(global_label "IO_L19N_T3L_N1_DBC_AD9N_66_N"
+	(global_label "IO_L19_DBC_66_N"
 		(shape bidirectional)
 		(at 54.61 121.92 180)
 		(effects
@@ -8287,7 +8287,7 @@
 			)
 		)
 	)
-	(global_label "IO_L13N_T2L_N1_GC_QBC_67_N"
+	(global_label "IO_L13_GC_QBC_67_N"
 		(shape bidirectional)
 		(at 152.4 83.82 180)
 		(effects
@@ -8309,7 +8309,7 @@
 			)
 		)
 	)
-	(global_label "IO_L8P_T1L_N2_AD5P_67_P"
+	(global_label "IO_L8_67_P"
 		(shape bidirectional)
 		(at 170.18 124.46 0)
 		(effects
@@ -8331,7 +8331,7 @@
 			)
 		)
 	)
-	(global_label "IO_L15P_T2L_N4_AD11P_66_P"
+	(global_label "IO_L15_66_P"
 		(shape bidirectional)
 		(at 54.61 93.98 180)
 		(effects
@@ -8353,7 +8353,7 @@
 			)
 		)
 	)
-	(global_label "IO_L2P_T0L_N2_67_P"
+	(global_label "IO_L2_67_P"
 		(shape bidirectional)
 		(at 170.18 86.36 0)
 		(effects
@@ -8375,7 +8375,7 @@
 			)
 		)
 	)
-	(global_label "IO_L13P_T2L_N0_GC_QBC_66_P"
+	(global_label "IO_L13_GC_QBC_66_P"
 		(shape bidirectional)
 		(at 54.61 81.28 180)
 		(effects
@@ -8397,7 +8397,7 @@
 			)
 		)
 	)
-	(global_label "IO_L9P_T1L_N4_AD12P_67_P"
+	(global_label "IO_L9_67_P"
 		(shape bidirectional)
 		(at 170.18 132.08 0)
 		(effects
@@ -8419,7 +8419,7 @@
 			)
 		)
 	)
-	(global_label "IO_L9N_T1L_N5_AD12N_66_N"
+	(global_label "IO_L9_66_N"
 		(shape bidirectional)
 		(at 72.39 134.62 0)
 		(effects
@@ -8441,7 +8441,7 @@
 			)
 		)
 	)
-	(global_label "IO_L2N_T0L_N3_66_N"
+	(global_label "IO_L2_66_N"
 		(shape bidirectional)
 		(at 72.39 88.9 0)
 		(effects
@@ -8463,7 +8463,7 @@
 			)
 		)
 	)
-	(global_label "IO_L3P_T0L_N4_AD15P_67_P"
+	(global_label "IO_L3_67_P"
 		(shape bidirectional)
 		(at 170.18 93.98 0)
 		(effects
@@ -8485,7 +8485,7 @@
 			)
 		)
 	)
-	(global_label "IO_L24P_T3U_N10_67_P"
+	(global_label "IO_L24_67_P"
 		(shape bidirectional)
 		(at 152.4 149.86 180)
 		(effects
@@ -8507,7 +8507,7 @@
 			)
 		)
 	)
-	(global_label "IO_L9N_T1L_N5_AD12N_67_N"
+	(global_label "IO_L9_67_N"
 		(shape bidirectional)
 		(at 170.18 134.62 0)
 		(effects
@@ -8529,7 +8529,7 @@
 			)
 		)
 	)
-	(global_label "IO_L14P_T2L_N2_GC_66_P"
+	(global_label "IO_L14_GC_66_P"
 		(shape bidirectional)
 		(at 54.61 86.36 180)
 		(effects
@@ -8551,7 +8551,7 @@
 			)
 		)
 	)
-	(global_label "IO_L7P_T1L_N0_QBC_AD13P_67_P"
+	(global_label "IO_L7_QBC_67_P"
 		(shape bidirectional)
 		(at 170.18 119.38 0)
 		(effects
@@ -8573,7 +8573,7 @@
 			)
 		)
 	)
-	(global_label "IO_L8N_T1L_N3_AD5N_66_N"
+	(global_label "IO_L8_66_N"
 		(shape bidirectional)
 		(at 72.39 127 0)
 		(effects
@@ -8595,7 +8595,7 @@
 			)
 		)
 	)
-	(global_label "IO_L18N_T2U_N11_AD2N_67_N"
+	(global_label "IO_L18_67_N"
 		(shape bidirectional)
 		(at 152.4 114.3 180)
 		(effects
@@ -8617,7 +8617,7 @@
 			)
 		)
 	)
-	(global_label "IO_L11N_T1U_N9_GC_67_N"
+	(global_label "IO_L11_GC_67_N"
 		(shape bidirectional)
 		(at 170.18 147.32 0)
 		(effects
@@ -8639,7 +8639,7 @@
 			)
 		)
 	)
-	(global_label "IO_L13P_T2L_N0_GC_QBC_67_P"
+	(global_label "IO_L13_GC_QBC_67_P"
 		(shape bidirectional)
 		(at 152.4 81.28 180)
 		(effects
@@ -8661,7 +8661,7 @@
 			)
 		)
 	)
-	(global_label "IO_L21N_T3L_N5_AD8N_66_N"
+	(global_label "IO_L21_66_N"
 		(shape bidirectional)
 		(at 54.61 134.62 180)
 		(effects
@@ -8683,7 +8683,7 @@
 			)
 		)
 	)
-	(global_label "IO_L22P_T3U_N6_DBC_AD0P_66_P"
+	(global_label "IO_L22_DBC_66_P"
 		(shape bidirectional)
 		(at 54.61 137.16 180)
 		(effects
@@ -8705,7 +8705,7 @@
 			)
 		)
 	)
-	(global_label "IO_L6N_T0U_N11_AD6N_66_N"
+	(global_label "IO_L6_66_N"
 		(shape bidirectional)
 		(at 72.39 114.3 0)
 		(effects
@@ -8727,7 +8727,7 @@
 			)
 		)
 	)
-	(global_label "IO_L17P_T2U_N8_AD10P_66_P"
+	(global_label "IO_L17_66_P"
 		(shape bidirectional)
 		(at 54.61 106.68 180)
 		(effects
@@ -8749,7 +8749,7 @@
 			)
 		)
 	)
-	(global_label "IO_L4N_T0U_N7_DBC_AD7N_67_N"
+	(global_label "IO_L4_DBC_67_N"
 		(shape bidirectional)
 		(at 170.18 101.6 0)
 		(effects

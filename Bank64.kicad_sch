@@ -14689,7 +14689,7 @@
 		)
 		(uuid "f8389fcb-7dcd-43ff-8240-a0195ce059be")
 	)
-	(global_label "IO_L21P_T3L_N4_AD8P_64_P"
+	(global_label "IO_L21_64_P"
 		(shape bidirectional)
 		(at 85.09 148.59 0)
 		(effects
@@ -14711,7 +14711,7 @@
 			)
 		)
 	)
-	(global_label "IO_L24N_T3U_N11_64_N"
+	(global_label "IO_L24_64_N"
 		(shape bidirectional)
 		(at 85.09 166.37 0)
 		(effects
@@ -14757,7 +14757,7 @@
 			)
 		)
 	)
-	(global_label "IO_L22P_T3U_N6_DBC_AD0P_64_P"
+	(global_label "IO_L22_DBC_64_P"
 		(shape bidirectional)
 		(at 85.09 153.67 0)
 		(effects
@@ -14779,7 +14779,7 @@
 			)
 		)
 	)
-	(global_label "IO_L20P_T3L_N2_AD1P_64_P"
+	(global_label "IO_L20_64_P"
 		(shape bidirectional)
 		(at 85.09 143.51 0)
 		(effects
@@ -14801,7 +14801,7 @@
 			)
 		)
 	)
-	(global_label "IO_L23N_T3U_N9_64_N"
+	(global_label "IO_L23_64_N"
 		(shape bidirectional)
 		(at 85.09 161.29 0)
 		(effects
@@ -14847,7 +14847,7 @@
 			)
 		)
 	)
-	(global_label "IO_L19P_T3L_N0_DBC_AD9P_64_P"
+	(global_label "IO_L19_DBC_64_P"
 		(shape bidirectional)
 		(at 85.09 138.43 0)
 		(effects
@@ -14869,7 +14869,7 @@
 			)
 		)
 	)
-	(global_label "IO_L21N_T3L_N5_AD8N_64_N"
+	(global_label "IO_L21_64_N"
 		(shape bidirectional)
 		(at 85.09 151.13 0)
 		(effects
@@ -14985,7 +14985,7 @@
 			)
 		)
 	)
-	(global_label "IO_L24P_T3U_N10_64_P"
+	(global_label "IO_L24_64_P"
 		(shape bidirectional)
 		(at 85.09 163.83 0)
 		(effects
@@ -15007,7 +15007,7 @@
 			)
 		)
 	)
-	(global_label "IO_L23P_T3U_N8_64_P"
+	(global_label "IO_L23_64_P"
 		(shape bidirectional)
 		(at 85.09 158.75 0)
 		(effects
@@ -15029,7 +15029,7 @@
 			)
 		)
 	)
-	(global_label "IO_L19N_T3L_N1_DBC_AD9N_64_N"
+	(global_label "IO_L19_DBC_64_N"
 		(shape bidirectional)
 		(at 85.09 140.97 0)
 		(effects
@@ -15051,7 +15051,7 @@
 			)
 		)
 	)
-	(global_label "IO_L22N_T3U_N7_DBC_AD0N_64_N"
+	(global_label "IO_L22_DBC_64_N"
 		(shape bidirectional)
 		(at 85.09 156.21 0)
 		(effects
@@ -15073,7 +15073,7 @@
 			)
 		)
 	)
-	(global_label "IO_L20N_T3L_N3_AD1N_64_N"
+	(global_label "IO_L20_64_N"
 		(shape bidirectional)
 		(at 85.09 146.05 0)
 		(effects

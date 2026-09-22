@@ -12842,7 +12842,7 @@
 			)
 		)
 	)
-	(global_label "IO_L8N_HDGC_87_N"
+	(global_label "IO_L8_HDGC_87_N"
 		(shape bidirectional)
 		(at 107.95 100.33 0)
 		(effects
@@ -12933,7 +12933,7 @@
 			)
 		)
 	)
-	(global_label "IO_L11N_AD9N_87_N"
+	(global_label "IO_L11_87_N"
 		(shape bidirectional)
 		(at 107.95 115.57 0)
 		(effects
@@ -12955,7 +12955,7 @@
 			)
 		)
 	)
-	(global_label "IO_L8P_HDGC_87_P"
+	(global_label "IO_L8_HDGC_87_P"
 		(shape bidirectional)
 		(at 107.95 97.79 0)
 		(effects
@@ -13024,7 +13024,7 @@
 			)
 		)
 	)
-	(global_label "IO_L6N_HDGC_87_N"
+	(global_label "IO_L6_HDGC_87_N"
 		(shape bidirectional)
 		(at 107.95 90.17 0)
 		(effects
@@ -13069,7 +13069,7 @@
 			)
 		)
 	)
-	(global_label "IO_L9N_AD11N_87_N"
+	(global_label "IO_L9_87_N"
 		(shape bidirectional)
 		(at 107.95 105.41 0)
 		(effects
@@ -13091,7 +13091,7 @@
 			)
 		)
 	)
-	(global_label "IO_L12N_AD8N_87_N"
+	(global_label "IO_L12_87_N"
 		(shape bidirectional)
 		(at 107.95 120.65 0)
 		(effects
@@ -13160,7 +13160,7 @@
 			)
 		)
 	)
-	(global_label "IO_L7P_HDGC_87_P"
+	(global_label "IO_L7_HDGC_87_P"
 		(shape bidirectional)
 		(at 107.95 92.71 0)
 		(effects
@@ -13205,7 +13205,7 @@
 			)
 		)
 	)
-	(global_label "IO_L10N_AD10N_87_N"
+	(global_label "IO_L10_87_N"
 		(shape bidirectional)
 		(at 107.95 110.49 0)
 		(effects
@@ -13227,7 +13227,7 @@
 			)
 		)
 	)
-	(global_label "IO_L12P_AD8P_87_P"
+	(global_label "IO_L12_87_P"
 		(shape bidirectional)
 		(at 107.95 118.11 0)
 		(effects
@@ -13249,7 +13249,7 @@
 			)
 		)
 	)
-	(global_label "IO_L11P_AD9P_87_P"
+	(global_label "IO_L11_87_P"
 		(shape bidirectional)
 		(at 107.95 113.03 0)
 		(effects
@@ -13271,7 +13271,7 @@
 			)
 		)
 	)
-	(global_label "IO_L10P_AD10P_87_P"
+	(global_label "IO_L10_87_P"
 		(shape bidirectional)
 		(at 107.95 107.95 0)
 		(effects
@@ -13316,7 +13316,7 @@
 			)
 		)
 	)
-	(global_label "IO_L9P_AD11P_87_P"
+	(global_label "IO_L9_87_P"
 		(shape bidirectional)
 		(at 107.95 102.87 0)
 		(effects
@@ -13338,7 +13338,7 @@
 			)
 		)
 	)
-	(global_label "IO_L7N_HDGC_87_N"
+	(global_label "IO_L7_HDGC_87_N"
 		(shape bidirectional)
 		(at 107.95 95.25 0)
 		(effects
