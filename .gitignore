@@ -1,1 +1,5 @@
 KU5P_Core-backups
+*lck
+*.bak
+rename_apply_log.txt
+rename_dryrun_report.txt
